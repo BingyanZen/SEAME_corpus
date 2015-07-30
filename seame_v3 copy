@@ -1,0 +1,229 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<style type="text/css">th {
+    font-size: 1.0em;
+    padding: 5px 10px;
+}
+
+td{
+    font-size: 1.0em;
+    padding: 5px 10px;
+}
+
+.hidden {
+    display: none;
+}
+</style>
+<p class="hidden" id="uttIDs">${uttIDs}</p>
+
+<p class="hidden" id="uttJSONs">${uttJSONs}</p>
+
+<!-- Instruction -->
+
+<section class="container" id="Survey" style="margin-bottom: 15px; padding: 10px; color: rgb(51, 51, 51);">
+<div class="row col-xs-12 col-md-12">
+<h1 style="font-family: Verdana, Geneva, sans-serif; font-size: 1.3em;"><span style="font-family:verdana,geneva,sans-serif;">Find proper nouns, filler interjections and strange-language words.&nbsp;If they haven&#39;t been labeled already,&nbsp;please check the box in corresponding category.</span></h1>
+<!-- Instructions -->
+
+<div class="panel panel-primary">
+<div class="panel-heading" style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;"><strong>Instructions</strong></div>
+
+<div class="panel-body">
+<h5 style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">--YOU MUST BE A FLUENT SPEAKER AND READER OF&nbsp;CHINESE TO COMPLETE THIS TASK.--</h5>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">You will see some&nbsp;sentences broken down word by word. Each word has a &quot;tag&quot; showing whether it&#39;s a noun, verb, etc. Each word is also identified as Chinese or English. Help us find proper nouns, filler interjections and non-Chinese non-English words which we have missed.</p>
+
+<h5 style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;"><span style="font-family:verdana,geneva,sans-serif;"><strong>1.&nbsp;Look for&nbsp;proper names we have missed. If&nbsp;a word is&nbsp;a proper name but doesn&#39;t have the &quot;proper noun/专有名词&quot; tag, check the &quot;Proper noun?&quot; box.</strong></span></h5>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">- Proper names can be:&nbsp;names of people (Melissa, 惠琳), places (New York, 台湾, Changi Airport...), companies (Apple...), brand names (iPhone...), movies (The Incredibles, Fast and Furious...), books, fictional characters, etc. They can also be&nbsp;acronyms: (M.R.T., N.U.S., etc.)</p>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">- If a proper name has multiple words,&nbsp;check all of their boxes, including the otherwise &quot;non-proper&quot; words as long as they are part of the same proper name.&nbsp;&nbsp;</p>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">For example, Lord-PROPERNOUN of-PROPERNOUN the-PROPERNOUN Rings-PROPERNOUN, Chrysler-PROPERNOUN Building-PROPERNOUN,&nbsp;成-PROPERNOUN 龙-PROPERNOUN</p>
+
+</div>
+</div>
+<!-- End Instructions -->
+
+<div class="panel panel-info" style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">
+<div class="panel-heading"><strong>Text</strong></div>
+
+<div class="hidden">
+<div class="panel-body" id="conversationPanel">&nbsp;</div>
+</div>
+</div>
+
+<div id="utt-tables" style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">&nbsp;</div>
+</div>
+
+<p class="hidden"><input id="hitAnswers" name="hitAnswers" type="hidden" /></p>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;"><input class="btn btn-primary" id="submitButton" onclick="return cleanup();" type="submit" value="Submit" /></p>
+<!-- End Survey Body --></section>
+<!-- close container -->
+<script type="text/javascript">
+function utteranceJSONToP(utterance) {
+    var wordsArray = [];
+    for (var i = 0; i < utterance.length; i++) {
+        wordsArray.push(utterance[i][0]);
+    }
+    var line = document.createElement("p");
+    var text = wordsArray.join(" ");
+    var textNode = document.createTextNode(text);
+    line.appendChild(textNode);
+    return line;
+}
+/**
+ * WORD1 WORD2 WORD3 ...
+ */
+function fillConversationPanel() {
+    var utteranceList = JSON.parse(document.getElementById("uttJSONs").innerHTML);
+    var panel = document.getElementById("conversationPanel");
+    panel.innerHTML = "";
+    for (var i = 0; i < utteranceList.length; i++) {
+        line = utteranceJSONToP(utteranceList[i]);
+        panel.appendChild(line);
+    }
+}
+/**
+ * Generates the tables to verify ALL TAGS.
+ */
+function generateUttTables() {
+    var idsList = JSON.parse(document.getElementById("uttIDs").innerHTML);
+    var utteranceList = JSON.parse(document.getElementById("uttJSONs").innerHTML);
+    var uttTables = document.getElementById("utt-tables");
+    uttTables.innerHTML = "";
+    var checkboxNETd = "<td><input type='checkbox' name='NE'/></td>";
+    // var checkboxDMTd = "<td><input type='checkbox' name='DM'/></td>";
+    // var checkboxLANGTd = "<td><input type='checkbox' name='LANG'/></td>";
+    var tableFirstRow = "<tr><th>Word</th><th>Tag</th><th>Proper Noun?</th></tr>";
+    for (var i = 0; i < utteranceList.length; i++) {
+        var utterance = utteranceList[i];
+        var tableContents = tableFirstRow;
+        for (var j = 0; j < utterance.length; j++) {
+            var wordTd = "<td>" + utterance[j][0] + "</td>";
+            var posTd = "<td>" + utterance[j][1] + "</td>";
+            tableContents += "<tr>" + wordTd + posTd + checkboxNETd + "</tr>";
+        }
+
+        // tableContents += tableSecondRow
+
+        // for (var k = 0; k < utterance.length; k++) {
+        //     var wordTd = "<td>" + utterance[k][0] + "</td>";
+        //     if (utterance[k][2] == "cmn"){
+        //         var langTd = "<td>Chinese</td>";
+        //     }
+        //     else if (utterance[k][2] == "eng") {
+        //         var langTd = "<td>English</td>";
+        //     }
+        //     else {
+        //         var langTd = "<td>Neither</td>";
+        //     }
+        //     tableContents += "<tr>" + wordTd + langTd + checkboxLANGTd +"</tr>";
+        // }
+        
+        var newTable = document.createElement("table");
+        newTable.id = idsList[i];
+        newTable.innerHTML = tableContents;
+        var panelDiv = document.createElement("div");
+        panelDiv.className = "panel panel-default";
+        var headingDiv = document.createElement("div");
+        headingDiv.className = "panel-heading";
+        headingDiv.innerHTML = utteranceJSONToP(utteranceList[i]).innerHTML;
+        panelDiv.appendChild(headingDiv);
+        panelDiv.appendChild(newTable);
+        uttTables.appendChild(panelDiv);
+    }
+}
+/**
+ * Updates the "answers" hidden field with JSON representing the responses.
+ * The answers are in an object with form {'id1': [false, false, true, true, ... ], ... }
+ */
+function updateAnswers() {
+    var answersInput = document.getElementById("hitAnswers");
+    var idsList = JSON.parse(document.getElementById("uttIDs").innerHTML);
+    var tables = document.getElementById("utt-tables").getElementsByTagName("table");
+    var answers = {};
+    for (var i = 0; i < tables.length; i++) {
+        var responsesList = [];
+        for (var j = 1; j < tables[i].rows.length; j++) {
+            responses = []
+            responses.push(tables[i].rows[j].cells[0].innerHTML);
+            responses.push(tables[i].rows[j].cells[1].firstChild.checked);
+            responses.push(tables[i].rows[j].cells[2].firstChild.checked);
+            responsesList.push(responses)
+        }
+        answers[idsList[i]] = responsesList;
+    }
+    answersInput.value = JSON.stringify(answers);
+}
+
+
+function cleanup() {
+    for (var i = 0; i < inputs.length; i++) {
+        if (inputs[i].type == "checkbox") {
+            inputs[i].disabled = true;
+        }
+    }
+    return true;
+}
+fillConversationPanel();
+generateUttTables();
+updateAnswers();
+var inputs = document.getElementsByTagName("input");
+for (var i = 0; i < inputs.length; i++) {
+    if (inputs[i].type == "checkbox") {
+        inputs[i].addEventListener("click", updateAnswers);
+    }
+}
+</script>
+
+<!-- Popup -->
+<style type="text/css">
+#popup { color: #000; background-color: #c0c0c0; position: fixed; top: 0; right: 0; }
+
+#popup a, #popup a:visited {
+position: relative;
+display: block;
+text-decoration: none;
+font-size: 1em;
+font-weight: bold;
+}
+
+#popup a span {display: none;}
+
+#popup a:hover { background-color: #e9e9e2; }
+
+/* the IE correction rule */
+#popup a:hover  {
+color: #f00; background-color: #e9e9e2;
+text-indent: 0; /* added the default value */
+}
+
+#popup a:hover span{
+display: block;
+position: absolute;
+right: 0;
+font-weight: normal;
+background: #e5e5e5;
+height: 300px;
+overflow: scroll;
+}
+</style>
+<div id="popup"><a>Help<span>
+<p>An entity is a object in the world like a place or person and a <b>named entity</b> is a phrase that uniquely refers to an object by its proper name (Hillary Clinton), acronym (IBM), nickname (Opra) or abbreviation (Minn.).  Here are some more examples of named entities for each of the types we are interested in.</p>
+<pre>
+  PER: Barack Obama; the Palins; John; ...
+  ORG: IBM; Coca-Cola Bottling Co., the Yankees; U.S.; ...
+  PLACE: Baltimore, MD; Washington; Mt. Everest; the Hoover dam; ...
+</pre>
+<p>Pronouns (me, I, we, they) should not be tagged, but Twitter usernames like @barackobama should be tagged.</p>
+<p>When tagging named entities remember to:</p>
+<ul>
+    <li>Tag words according to their <b>meaning</b> in the context of the tweet</li>
+    <li>Only tag <b>names</b>, i.e. words that directly and uniquely refer to entities</li>
+    <li>Only tag names of the types <b>PER</b>,<b> ORG</b>, and <b>LOC</b></li>
+    <li>You can check the <strong>???</strong> box to indicate somthing you consider to be ambiguous or that you are uncertain about</li>
+</ul>
+</span></a></div>
+<!-- End of popup -->
