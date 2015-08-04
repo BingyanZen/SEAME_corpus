@@ -36,10 +36,10 @@
 30NC49FBQ_0101	3433211	3435351	他@PRON@cmn 去@VERB@cmn 吃@VERB@cmn lunch@NOUN@eng 倒@ADV@cmn 忘记@VERB@cmn 我们@PRON@cmn 了@PRT@cmn
 18NC36MBQ_0101	3165431	3167571	then@ADV@eng 女@NOUN@cmn 孩子@NOUN@cmn 还@adv@cmn 比较@ADV@cmn 容易@ADV@cmn connect@VERB@eng you@INTJ@eng know@INTJ@eng
 35NC56MBP_0101	2107090	2109360	but@CONJ@eng but@CONJ@eng 你@PRON@cmn 看@VERB@cmn 那年@NOUN@cmn 有@VERB@cmn
-09NC17FBP_0101	245950	248710	没有@VERB@cmn 啦@INTJ@cmn 我@PRON@cmn 都@ADV@cmn 没有@ADV@cmn check@VERB@eng 我@PRON@cmn 的@PRT@cmn computer@NOUN@eng
+09NC17FBP_0101	245950	248710	没有@VERB@cmn 啦@PRT@cmn 我@PRON@cmn 都@ADV@cmn 没有@ADV@cmn check@VERB@eng 我@PRON@cmn 的@PRT@cmn computer@NOUN@eng
 19NC37MBP_0101	112200	114300	我@PRON@cmn 还@ADV@cmn 一直@ADV@cmn lesson@NOUN@eng five@NUM@eng ah@DSC@undef but@CONJ@eng
 05NC10MAY_0201	1403870	1405600	最@ADV@cmn low@ADJ@eng risk@NOUN@eng 的@PRT@cmn investment@NOUN@eng 啊@PRT@cmn
-09NC18MBQ_0101	2416880	2419670	啊@INTJ@cmn 那个@PRON@cmn 那个@PRON@cmn 就@ADV@cmn 会@VERB@cmn 很@ADV@cmn loser@NOUN@eng 啦@INTJ@cmn ya@INTJ@may 啦@INTJ@cmn I@PRON@eng agree@VERB@eng 啦@INTJ@cmn
+09NC18MBQ_0101	2416880	2419670	啊@INTJ@cmn 那个@PRON@cmn 那个@PRON@cmn 就@ADV@cmn 会@VERB@cmn 很@ADV@cmn loser@NOUN@eng 啦@PRT@cmn ya@INTJ@may 啦@PRT@cmn I@PRON@eng agree@VERB@eng 啦@PRT@cmn
 46NC41MBP_0101	745801	750981	所以@CONJ@cmn 就@ADV@cmn it@PRON@eng 's@VERB@eng safe@ADJ@eng to@PRT@eng 讨论@VERB@cmn 下@DET@cmn 一个@DET@cmn 话题@NOUN@cmn
 41NC59MAX_0101	2686779	2688159	我们@PRON@cmn 去@VERB@cmn clubbing@VERB@eng
 31NC35FBQ_0101	2246936	2250076	that@PRON@eng 's@VERB@eng quite@ADV@eng funny@ADJ@eng cambodia@PROPN@eng what@DET@eng what@DET@eng group@NOUN@eng of@ADP@eng friends@NOUN@eng were@VERB@eng they@PRON@eng

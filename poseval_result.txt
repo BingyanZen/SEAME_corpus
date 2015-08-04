@@ -11,9 +11,8 @@ dev sentence: that@ADP@eng one@NUM@eng right@NOUN@eng
 gold sentence: that@DET@eng one@PRON@eng right@INTJ@eng
 
 dev tok: guess@NOUN@eng    gold tok: guess@VERB@eng
-dev tok: that@ADP@eng    gold tok: that@SCONJ@eng
 dev sentence: okay@INTJ@eng I@PRON@eng guess@NOUN@eng think@VERB@eng that@ADP@eng
-gold sentence: okay@INTJ@eng I@PRON@eng guess@VERB@eng think@VERB@eng that@SCONJ@eng
+gold sentence: okay@INTJ@eng I@PRON@eng guess@VERB@eng think@VERB@eng that@ADP@eng
 
 dev sentence: 为什么@ADV@cmn 他@PRON@cmn 叫@VERB@cmn 为什么@ADV@cmn 他@PRON@cmn 有@VERB@cmn 人家@PRON@cmn 叫@VERB@cmn 他@PRON@cmn 奶粉@NOUN@cmn
 gold sentence: 为什么@ADV@cmn 他@PRON@cmn 叫@VERB@cmn 为什么@ADV@cmn 他@PRON@cmn 有@VERB@cmn 人家@PRON@cmn 叫@VERB@cmn 他@PRON@cmn 奶粉@NOUN@cmn
@@ -39,9 +38,9 @@ gold sentence: 好像@ADV@cmn 满@ADV@cmn 难@VERB@cmn 的@PRT@cmn 如果@SCONJ@
 dev tok: 跟@ADP@cmn    gold tok: 跟@CONJ@cmn
 dev tok: second@ADV@eng    gold tok: second@ADJ@eng
 dev tok: 所以@ADV@cmn    gold tok: 所以@CONJ@cmn
-dev tok: 吧@NOUN@cmn    gold tok: 吧@INTJ@cmn
+dev tok: 吧@NOUN@cmn    gold tok: 吧@PRT@cmn
 dev sentence: 然后@ADV@cmn 刚好@ADV@cmn 我@PRON@cmn 的@PRT@cmn 成绩@NOUN@cmn 是@VERB@cmn 在@VERB@cmn eh@DSC@undef 边缘@NOUN@cmn 就@ADV@cmn 是@VERB@cmn second@ADJ@eng upper@ADJ@eng 跟@ADP@cmn second@ADV@eng lower@ADJ@eng 的@PRT@cmn 中间@NOUN@cmn 所以@ADV@cmn 我@PRON@cmn 就@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 那个@DET@cmn chance@NOUN@eng to@PRT@eng interview@VERB@eng 吧@NOUN@cmn 我@PRON@cmn 想@VERB@cmn
-gold sentence: 然后@ADV@cmn 刚好@ADV@cmn 我@PRON@cmn 的@PRT@cmn 成绩@NOUN@cmn 是@VERB@cmn 在@VERB@cmn eh@DSC@undef 边缘@NOUN@cmn 就@ADV@cmn 是@VERB@cmn second@ADJ@eng upper@ADJ@eng 跟@CONJ@cmn second@ADJ@eng lower@ADJ@eng 的@PRT@cmn 中间@NOUN@cmn 所以@CONJ@cmn 我@PRON@cmn 就@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 那个@DET@cmn chance@NOUN@eng to@PRT@eng interview@VERB@eng 吧@INTJ@cmn 我@PRON@cmn 想@VERB@cmn
+gold sentence: 然后@ADV@cmn 刚好@ADV@cmn 我@PRON@cmn 的@PRT@cmn 成绩@NOUN@cmn 是@VERB@cmn 在@VERB@cmn eh@DSC@undef 边缘@NOUN@cmn 就@ADV@cmn 是@VERB@cmn second@ADJ@eng upper@ADJ@eng 跟@CONJ@cmn second@ADJ@eng lower@ADJ@eng 的@PRT@cmn 中间@NOUN@cmn 所以@CONJ@cmn 我@PRON@cmn 就@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 那个@DET@cmn chance@NOUN@eng to@PRT@eng interview@VERB@eng 吧@PRT@cmn 我@PRON@cmn 想@VERB@cmn
 
 dev tok: 来@VERB@cmn    gold tok: 来@PRT@cmn
 dev tok: that@DET@eng    gold tok: that@PRON@eng
@@ -61,24 +60,23 @@ gold sentence: 每次@ADV@cmn 看@VERB@cmn 那些@DET@cmn tuition@NOUN@eng centr
 dev sentence: 你@PRON@cmn 的@PRT@cmn 你@PRON@cmn 的@PRT@cmn 是@VERB@cmn five@NUM@eng dollar@NOUN@eng
 gold sentence: 你@PRON@cmn 的@PRT@cmn 你@PRON@cmn 的@PRT@cmn 是@VERB@cmn five@NUM@eng dollar@NOUN@eng
 
-dev tok: singing@NOUN@eng    gold tok: singing@VERB@eng
 dev tok: so@ADP@eng    gold tok: so@ADV@eng
 dev tok: K.@PROPN@eng    gold tok: K.@NOUN@eng
 dev sentence: my@PRON@eng singing@NOUN@eng very@ADV@eng sucky@ADJ@eng so@ADP@eng 我@PRON@cmn 不@ADV@cmn 是@VERB@cmn 很@ADV@cmn 喜欢@VERB@cmn 去@VERB@cmn 唱@VERB@cmn K.@PROPN@eng
-gold sentence: my@PRON@eng singing@VERB@eng very@ADV@eng sucky@ADJ@eng so@ADV@eng 我@PRON@cmn 不@ADV@cmn 是@VERB@cmn 很@ADV@cmn 喜欢@VERB@cmn 去@VERB@cmn 唱@VERB@cmn K.@NOUN@eng
+gold sentence: my@PRON@eng singing@NOUN@eng very@ADV@eng sucky@ADJ@eng so@ADV@eng 我@PRON@cmn 不@ADV@cmn 是@VERB@cmn 很@ADV@cmn 喜欢@VERB@cmn 去@VERB@cmn 唱@VERB@cmn K.@NOUN@eng
 
 dev sentence: ya@INTJ@may they@PRON@eng 're@VERB@eng in@ADP@eng their@PRON@eng world@NOUN@eng so@ADV@eng 他们@PRON@cmn
 gold sentence: ya@INTJ@may they@PRON@eng 're@VERB@eng in@ADP@eng their@PRON@eng world@NOUN@eng so@ADV@eng 他们@PRON@cmn
 
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev sentence: then@ADV@eng he@PRON@eng commented@VERB@eng on@ADP@eng our@PRON@eng photos@NOUN@eng 啊@INTJ@cmn
-gold sentence: then@ADV@eng he@PRON@eng commented@VERB@eng on@ADP@eng our@PRON@eng photos@NOUN@eng 啊@INTJ@cmn
+gold sentence: then@ADV@eng he@PRON@eng commented@VERB@eng on@ADP@eng our@PRON@eng photos@NOUN@eng 啊@PRT@cmn
 
 dev tok: 排排@NUM@cmn    gold tok: 排排@VERB@cmn
 dev tok: 排排@NUM@cmn    gold tok: 排排@VERB@cmn
 dev tok: 排排@NUM@cmn    gold tok: 排排@VERB@cmn
-dev tok: then@ADV@eng    gold tok: then@VERB@eng
 dev sentence: so@ADV@eng trace@VERB@eng the@DET@eng passport@NOUN@eng then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 准备@VERB@cmn lo@DSC@undef then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 排排@NUM@cmn 排排@NUM@cmn 排排@NUM@cmn then@ADV@eng so@ADV@eng
-gold sentence: so@ADV@eng trace@VERB@eng the@DET@eng passport@NOUN@eng then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 准备@VERB@cmn lo@DSC@undef then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 排排@VERB@cmn 排排@VERB@cmn 排排@VERB@cmn then@VERB@eng so@ADV@eng
+gold sentence: so@ADV@eng trace@VERB@eng the@DET@eng passport@NOUN@eng then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 准备@VERB@cmn lo@DSC@undef then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 排排@VERB@cmn 排排@VERB@cmn 排排@VERB@cmn then@ADV@eng so@ADV@eng
 
 dev tok: that@DET@eng    gold tok: that@SCONJ@eng
 dev tok: something@NOUN@eng    gold tok: something@PRON@eng
@@ -87,15 +85,13 @@ dev sentence: you@PRON@eng 你@PRON@cmn 一直@ADV@cmn 会@VERB@cmn 想@VERB@cmn
 gold sentence: you@PRON@eng 你@PRON@cmn 一直@ADV@cmn 会@VERB@cmn 想@VERB@cmn that@SCONJ@eng something@PRON@eng that@SCONJ@eng
 
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
-dev tok: 嘛@PRT@cmn    gold tok: 嘛@INTJ@cmn
 dev sentence: 他@PRON@cmn 就@ADV@cmn 讲@VERB@cmn lo@DSC@undef 它@PRON@cmn 可以@VERB@cmn do@VERB@eng then@ADV@eng 为什么@ADV@cmn 我@PRON@cmn 不@ADV@cmn 可以@VERB@cmn then@ADV@eng 我@PRON@cmn end@VERB@eng up@PRT@eng 我@PRON@cmn reply@VERB@eng 他@PRON@cmn 因为@ADP@cmn 你@PRON@cmn 聪明@VERB@cmn 嘛@PRT@cmn
-gold sentence: 他@PRON@cmn 就@ADV@cmn 讲@VERB@cmn lo@DSC@undef 它@PRON@cmn 可以@VERB@cmn do@VERB@eng then@ADV@eng 为什么@ADV@cmn 我@PRON@cmn 不@ADV@cmn 可以@VERB@cmn then@ADV@eng 我@PRON@cmn end@VERB@eng up@PRT@eng 我@PRON@cmn reply@VERB@eng 他@PRON@cmn 因为@CONJ@cmn 你@PRON@cmn 聪明@VERB@cmn 嘛@INTJ@cmn
+gold sentence: 他@PRON@cmn 就@ADV@cmn 讲@VERB@cmn lo@DSC@undef 它@PRON@cmn 可以@VERB@cmn do@VERB@eng then@ADV@eng 为什么@ADV@cmn 我@PRON@cmn 不@ADV@cmn 可以@VERB@cmn then@ADV@eng 我@PRON@cmn end@VERB@eng up@PRT@eng 我@PRON@cmn reply@VERB@eng 他@PRON@cmn 因为@CONJ@cmn 你@PRON@cmn 聪明@VERB@cmn 嘛@PRT@cmn
 
 dev tok: market@NOUN@eng    gold tok: market@VERB@eng
-dev tok: 嘛@PRT@cmn    gold tok: 嘛@INTJ@cmn
 dev tok: market@NOUN@eng    gold tok: market@VERB@eng
 dev sentence: 你@PRON@cmn 都@ADV@cmn 不@ADV@cmn 用@VERB@cmn market@NOUN@eng 他@PRON@cmn 嘛@PRT@cmn 你@PRON@cmn just@ADV@eng market@NOUN@eng your@PRON@eng event@NOUN@eng then@ADV@eng
-gold sentence: 你@PRON@cmn 都@ADV@cmn 不@ADV@cmn 用@VERB@cmn market@VERB@eng 他@PRON@cmn 嘛@INTJ@cmn 你@PRON@cmn just@ADV@eng market@VERB@eng your@PRON@eng event@NOUN@eng then@ADV@eng
+gold sentence: 你@PRON@cmn 都@ADV@cmn 不@ADV@cmn 用@VERB@cmn market@VERB@eng 他@PRON@cmn 嘛@PRT@cmn 你@PRON@cmn just@ADV@eng market@VERB@eng your@PRON@eng event@NOUN@eng then@ADV@eng
 
 dev tok: wise@ADJ@eng    gold tok: wise@ADP@eng
 dev sentence: results@NOUN@eng wise@ADJ@eng 就@ADV@cmn too@ADV@eng bad@ADJ@eng orh@DSC@undef
@@ -109,21 +105,20 @@ dev tok: right@ADV@eng    gold tok: right@INTJ@eng
 dev sentence: 然后@ADV@cmn 那个@DET@cmn optician@NOUN@eng 帮@VERB@cmn 他@PRON@cmn 戴@VERB@cmn 那个@DET@cmn 你@PRON@cmn 懂@VERB@cmn 那个@PRON@cmn 厚厚的@NOUN@cmn glasses@NOUN@eng right@ADV@eng
 gold sentence: 然后@ADV@cmn 那个@DET@cmn optician@NOUN@eng 帮@VERB@cmn 他@PRON@cmn 戴@VERB@cmn 那个@DET@cmn 你@INTJ@cmn 懂@INTJ@cmn 那个@DET@cmn 厚厚的@ADJ@cmn glasses@NOUN@eng right@INTJ@eng
 
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev sentence: then@ADV@eng I@PRON@eng say@VERB@eng just@ADV@eng join@VERB@eng me@PRON@eng 啊@INTJ@cmn but@CONJ@eng many@ADJ@eng people@NOUN@eng also@ADV@eng
-gold sentence: then@ADV@eng I@PRON@eng say@VERB@eng just@ADV@eng join@VERB@eng me@PRON@eng 啊@INTJ@cmn but@CONJ@eng many@ADJ@eng people@NOUN@eng also@ADV@eng
+gold sentence: then@ADV@eng I@PRON@eng say@VERB@eng just@ADV@eng join@VERB@eng me@PRON@eng 啊@PRT@cmn but@CONJ@eng many@ADJ@eng people@NOUN@eng also@ADV@eng
 
-dev tok: 老@VERB@cmn    gold tok: 老@ADJ@cmn
 dev tok: 而且@ADV@cmn    gold tok: 而且@CONJ@cmn
 dev sentence: attachment@NOUN@eng hor@DSC@undef 你@PRON@cmn 遇到@VERB@cmn 的@PRT@cmn 那些@DET@cmn guys@NOUN@eng 都@ADV@cmn 是@VERB@cmn 很@ADV@cmn 老@VERB@cmn 的@PRT@cmn 而且@ADV@cmn hor@DSC@undef 如果@SCONJ@cmn 是@VERB@cmn single@ADJ@eng 的@PRT@cmn hor@DSC@undef
-gold sentence: attachment@NOUN@eng hor@DSC@undef 你@PRON@cmn 遇到@VERB@cmn 的@PRT@cmn 那些@DET@cmn guys@NOUN@eng 都@ADV@cmn 是@VERB@cmn 很@ADV@cmn 老@ADJ@cmn 的@PRT@cmn 而且@CONJ@cmn hor@DSC@undef 如果@SCONJ@cmn 是@VERB@cmn single@ADJ@eng 的@PRT@cmn hor@DSC@undef
+gold sentence: attachment@NOUN@eng hor@DSC@undef 你@PRON@cmn 遇到@VERB@cmn 的@PRT@cmn 那些@DET@cmn guys@NOUN@eng 都@ADV@cmn 是@VERB@cmn 很@ADV@cmn 老@VERB@cmn 的@PRT@cmn 而且@CONJ@cmn hor@DSC@undef 如果@SCONJ@cmn 是@VERB@cmn single@ADJ@eng 的@PRT@cmn hor@DSC@undef
 
 dev tok: 对@VERB@cmn    gold tok: 对@INTJ@cmn
 dev sentence: 对@VERB@cmn lo@DSC@undef very@ADV@eng funny@ADJ@eng 很@ADV@cmn 好笑@VERB@cmn
 gold sentence: 对@INTJ@cmn lo@DSC@undef very@ADV@eng funny@ADJ@eng 很@ADV@cmn 好笑@VERB@cmn
 
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
 dev sentence: my@PRON@eng chemistry@NOUN@eng 现在@NOUN@cmn 也@ADV@cmn 是@VERB@cmn
-gold sentence: my@PRON@eng chemistry@NOUN@eng 现在@ADV@cmn 也@ADV@cmn 是@VERB@cmn
+gold sentence: my@PRON@eng chemistry@NOUN@eng 现在@NOUN@cmn 也@ADV@cmn 是@VERB@cmn
 
 dev sentence: ya@INTJ@may a@DET@eng lot@NOUN@eng ivan@PROPN@eng saw@VERB@eng me@PRON@eng
 gold sentence: ya@INTJ@may a@DET@eng lot@NOUN@eng ivan@PROPN@eng saw@VERB@eng me@PRON@eng
@@ -150,19 +145,19 @@ dev tok: thought@NOUN@eng    gold tok: thought@VERB@eng
 dev sentence: but@CONJ@eng I@PRON@eng thought@NOUN@eng 我们@PRON@cmn 讲话@VERB@cmn 不@ADV@cmn 是@VERB@cmn 有@VERB@cmn mix@NOUN@eng meh@DSC@undef
 gold sentence: but@CONJ@eng I@PRON@eng thought@VERB@eng 我们@PRON@cmn 讲话@VERB@cmn 不@ADV@cmn 是@VERB@cmn 有@VERB@cmn mix@NOUN@eng meh@DSC@undef
 
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev tok: 哎呀@DSC@cmn    gold tok: 哎呀@DSC@undef
 dev tok: long@ADV@eng    gold tok: long@ADJ@eng
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev sentence: how@ADV@eng much@ADJ@eng time@NOUN@eng 啊@INTJ@cmn 哎呀@DSC@cmn still@ADV@eng so@ADV@eng long@ADV@eng 啊@INTJ@cmn half@DET@eng an@DET@eng hour@NOUN@eng
-gold sentence: how@ADV@eng much@ADJ@eng time@NOUN@eng 啊@INTJ@cmn 哎呀@DSC@undef still@ADV@eng so@ADV@eng long@ADJ@eng 啊@INTJ@cmn half@DET@eng an@DET@eng hour@NOUN@eng
+gold sentence: how@ADV@eng much@ADJ@eng time@NOUN@eng 啊@PRT@cmn 哎呀@DSC@undef still@ADV@eng so@ADV@eng long@ADJ@eng 啊@PRT@cmn half@DET@eng an@DET@eng hour@NOUN@eng
 
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
 dev tok: 所以@ADV@cmn    gold tok: 所以@CONJ@cmn
 dev tok: 一个@NUM@cmn    gold tok: 一个@DET@cmn
 dev tok: duplicate@VERB@eng    gold tok: duplicate@NOUN@eng
-dev tok: 吗@PRT@cmn    gold tok: 吗@INTJ@cmn
 dev sentence: 如果@SCONJ@cmn 你@PRON@cmn keep@VERB@eng 那个@DET@cmn original@ADJ@eng then@ADV@eng 你@PRON@cmn 可以@VERB@cmn explain@VERB@eng 给@ADP@cmn 他们@PRON@cmn 听@VERB@cmn 啊@PRT@cmn 因为@ADP@cmn 你@PRON@cmn 不见@VERB@cmn 所以@ADV@cmn 你@PRON@cmn 去@VERB@cmn make@VERB@eng 一个@NUM@cmn duplicate@VERB@eng 吗@PRT@cmn
-gold sentence: 如果@SCONJ@cmn 你@PRON@cmn keep@VERB@eng 那个@DET@cmn original@ADJ@eng then@ADV@eng 你@PRON@cmn 可以@VERB@cmn explain@VERB@eng 给@ADP@cmn 他们@PRON@cmn 听@VERB@cmn 啊@INTJ@cmn 因为@CONJ@cmn 你@PRON@cmn 不见@VERB@cmn 所以@CONJ@cmn 你@PRON@cmn 去@VERB@cmn make@VERB@eng 一个@DET@cmn duplicate@NOUN@eng 吗@INTJ@cmn
+gold sentence: 如果@SCONJ@cmn 你@PRON@cmn keep@VERB@eng 那个@DET@cmn original@ADJ@eng then@ADV@eng 你@PRON@cmn 可以@VERB@cmn explain@VERB@eng 给@ADP@cmn 他们@PRON@cmn 听@VERB@cmn 啊@PRT@cmn 因为@CONJ@cmn 你@PRON@cmn 不见@VERB@cmn 所以@CONJ@cmn 你@PRON@cmn 去@VERB@cmn make@VERB@eng 一个@DET@cmn duplicate@NOUN@eng 吗@PRT@cmn
 
 dev tok: 一点@NUM@cmn    gold tok: 一点@ADV@cmn
 dev sentence: 会@VERB@cmn 有@VERB@cmn 一点@NUM@cmn 怪怪@ADJ@cmn orh@DSC@undef
@@ -185,16 +180,17 @@ gold sentence: but@CONJ@eng but@CONJ@eng 你@PRON@cmn 看@VERB@cmn 那年@NOUN@c
 
 dev tok: 没有@ADV@cmn    gold tok: 没有@VERB@cmn
 dev tok: 啦@PRT@cmn    gold tok: 啦@INTJ@cmn
+dev tok: 没有@VERB@cmn    gold tok: 没有@ADV@cmn
 dev tok: check@NOUN@eng    gold tok: check@VERB@eng
 dev sentence: 没有@ADV@cmn 啦@PRT@cmn 我@PRON@cmn 都@ADV@cmn 没有@VERB@cmn check@NOUN@eng 我@PRON@cmn 的@PRT@cmn computer@NOUN@eng
-gold sentence: 没有@VERB@cmn 啦@INTJ@cmn 我@PRON@cmn 都@ADV@cmn 没有@VERB@cmn check@VERB@eng 我@PRON@cmn 的@PRT@cmn computer@NOUN@eng
+gold sentence: 没有@VERB@cmn 啦@INTJ@cmn 我@PRON@cmn 都@ADV@cmn 没有@ADV@cmn check@VERB@eng 我@PRON@cmn 的@PRT@cmn computer@NOUN@eng
 
-dev tok: 一直@ADV@cmn    gold tok: 一直@ADB@cmn
 dev sentence: 我@PRON@cmn 还@ADV@cmn 一直@ADV@cmn lesson@NOUN@eng five@NUM@eng ah@DSC@undef but@CONJ@eng
-gold sentence: 我@PRON@cmn 还@ADV@cmn 一直@ADB@cmn lesson@NOUN@eng five@NUM@eng ah@DSC@undef but@CONJ@eng
+gold sentence: 我@PRON@cmn 还@ADV@cmn 一直@ADV@cmn lesson@NOUN@eng five@NUM@eng ah@DSC@undef but@CONJ@eng
 
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev sentence: 最@ADV@cmn low@ADJ@eng risk@NOUN@eng 的@PRT@cmn investment@NOUN@eng 啊@INTJ@cmn
-gold sentence: 最@ADV@cmn low@ADJ@eng risk@NOUN@eng 的@PRT@cmn investment@NOUN@eng 啊@INTJ@cmn
+gold sentence: 最@ADV@cmn low@ADJ@eng risk@NOUN@eng 的@PRT@cmn investment@NOUN@eng 啊@PRT@cmn
 
 dev tok: 那个@DET@cmn    gold tok: 那个@PRON@cmn
 dev tok: 啦@PRT@cmn    gold tok: 啦@INTJ@cmn
@@ -224,8 +220,9 @@ dev tok: sound@ADJ@eng    gold tok: sound@NOUN@eng
 dev sentence: ya@INTJ@may that@DET@eng 's@VERB@eng why@ADV@eng I@PRON@eng 'm@VERB@eng doing@VERB@eng electronics@NOUN@eng you@PRON@eng are@VERB@eng doing@VERB@eng sound@ADJ@eng I@PRON@eng observe@VERB@eng the@DET@eng wave@NOUN@eng form@NOUN@eng ppl@XXX@XXX you@PRON@eng help@VERB@eng me@PRON@eng think@VERB@eng of@ADP@eng the@DET@eng reason@NOUN@eng why@ADV@eng
 gold sentence: ya@INTJ@may that@PRON@eng 's@VERB@eng why@ADV@eng I@PRON@eng 'm@VERB@eng doing@VERB@eng electronics@NOUN@eng you@PRON@eng are@VERB@eng doing@VERB@eng sound@NOUN@eng I@PRON@eng observe@VERB@eng the@DET@eng wave@NOUN@eng form@NOUN@eng ppl@XXX@XXX you@PRON@eng help@VERB@eng me@PRON@eng think@VERB@eng of@ADP@eng the@DET@eng reason@NOUN@eng why@ADV@eng
 
+dev tok: like@ADP@eng    gold tok: like@INTJ@eng
 dev sentence: he@PRON@eng looks@VERB@eng like@ADP@eng right@INTJ@eng 你@PRON@cmn 跟@ADP@cmn 我@PRON@cmn 讲@VERB@cmn he@PRON@eng looks@VERB@eng like@ADP@eng her@PRON@eng
-gold sentence: he@PRON@eng looks@VERB@eng like@ADP@eng right@INTJ@eng 你@PRON@cmn 跟@ADP@cmn 我@PRON@cmn 讲@VERB@cmn he@PRON@eng looks@VERB@eng like@ADP@eng her@PRON@eng
+gold sentence: he@PRON@eng looks@VERB@eng like@INTJ@eng right@INTJ@eng 你@PRON@cmn 跟@ADP@cmn 我@PRON@cmn 讲@VERB@cmn he@PRON@eng looks@VERB@eng like@ADP@eng her@PRON@eng
 
 dev sentence: off@ADP@eng shore@NOUN@eng 的@PRT@cmn 那个@DET@cmn specialisation@NOUN@eng
 gold sentence: off@ADP@eng shore@NOUN@eng 的@PRT@cmn 那个@DET@cmn specialisation@NOUN@eng
@@ -235,10 +232,9 @@ dev sentence: orh@DSC@undef how@ADV@eng is@VERB@eng the@DET@eng nike@PROPN@eng e
 gold sentence: orh@DSC@undef how@ADV@eng is@VERB@eng the@DET@eng nike@PROPN@eng er@DSC@undef race@NOUN@eng like@ADP@eng
 
 dev tok: 对@ADP@cmn    gold tok: 对@INTJ@cmn
-dev tok: 分钟@NUM@cmn    gold tok: 分钟@NOUN@cmn
 dev tok: this@DET@eng    gold tok: this@PRON@eng
 dev sentence: 对@ADP@cmn 其实@ADV@cmn 我们@PRON@cmn 讲@VERB@cmn 十@NUM@cmn 分钟@NUM@cmn 了@PRT@cmn we@PRON@eng just@ADV@eng need@VERB@eng to@PRT@eng do@VERB@eng five@NUM@eng more@ADJ@eng times@NOUN@eng of@ADP@eng this@DET@eng
-gold sentence: 对@INTJ@cmn 其实@ADV@cmn 我们@PRON@cmn 讲@VERB@cmn 十@NUM@cmn 分钟@NOUN@cmn 了@PRT@cmn we@PRON@eng just@ADV@eng need@VERB@eng to@PRT@eng do@VERB@eng five@NUM@eng more@ADJ@eng times@NOUN@eng of@ADP@eng this@PRON@eng
+gold sentence: 对@INTJ@cmn 其实@ADV@cmn 我们@PRON@cmn 讲@VERB@cmn 十@NUM@cmn 分钟@NUM@cmn 了@PRT@cmn we@PRON@eng just@ADV@eng need@VERB@eng to@PRT@eng do@VERB@eng five@NUM@eng more@ADJ@eng times@NOUN@eng of@ADP@eng this@PRON@eng
 
 dev tok: 一个@ADV@cmn    gold tok: 一个@PRON@cmn
 dev tok: 就@ADP@cmn    gold tok: 就@ADV@cmn
@@ -260,9 +256,8 @@ dev tok: 那种@ADV@cmn    gold tok: 那种@DET@cmn
 dev sentence: 可能@VERB@cmn robbery@NOUN@eng or@CONJ@eng 这种@ADV@cmn 东西@NOUN@cmn 那种@ADV@cmn 打抢@VERB@cmn
 gold sentence: 可能@ADV@cmn robbery@NOUN@eng or@CONJ@eng 这种@DET@cmn 东西@NOUN@cmn 那种@DET@cmn 打抢@VERB@cmn
 
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
 dev sentence: but@CONJ@eng then@ADV@eng now@ADV@eng 我@PRON@cmn 现在@NOUN@cmn 在@ADP@cmn hall@NOUN@eng 里面@NOUN@cmn 我@PRON@cmn play@VERB@eng quite@ADV@eng a@DET@eng few@ADJ@eng sports@NOUN@eng as@ADV@eng well@ADV@eng
-gold sentence: but@CONJ@eng then@ADV@eng now@ADV@eng 我@PRON@cmn 现在@ADV@cmn 在@ADP@cmn hall@NOUN@eng 里面@NOUN@cmn 我@PRON@cmn play@VERB@eng quite@ADV@eng a@DET@eng few@ADJ@eng sports@NOUN@eng as@ADV@eng well@ADV@eng
+gold sentence: but@CONJ@eng then@ADV@eng now@ADV@eng 我@PRON@cmn 现在@NOUN@cmn 在@ADP@cmn hall@NOUN@eng 里面@NOUN@cmn 我@PRON@cmn play@VERB@eng quite@ADV@eng a@DET@eng few@ADJ@eng sports@NOUN@eng as@ADV@eng well@ADV@eng
 
 dev tok: 有@VERB@cmn    gold tok: 有@ADV@cmn
 dev tok: 时候@NOUN@cmn    gold tok: 时候@ADV@cmn
@@ -311,12 +306,9 @@ dev tok: e@X@eng    gold tok: e@NOUN@eng
 dev sentence: um@NOUN@eng 因为@ADP@cmn 听说@VERB@cmn triple@ADV@eng e@X@eng 很@ADV@cmn 难读@VERB@cmn
 gold sentence: um@INTJ@eng 因为@CONJ@cmn 听说@VERB@cmn triple@NOUN@eng e@NOUN@eng 很@ADV@cmn 难读@VERB@cmn
 
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
-dev tok: 在@ADP@cmn    gold tok: 在@ADV@cmn
 dev tok: 就是@ADV@cmn    gold tok: 就是@VERB@cmn
 dev sentence: 现在@NOUN@cmn 的@PRT@cmn 科目@NOUN@cmn 哦@INTJ@cmn 现在@NOUN@cmn 我@PRON@cmn 在@ADP@cmn 学@VERB@cmn 的@PRT@cmn 就是@ADV@cmn world@NOUN@eng cinema@NOUN@eng
-gold sentence: 现在@ADV@cmn 的@PRT@cmn 科目@NOUN@cmn 哦@INTJ@cmn 现在@ADV@cmn 我@PRON@cmn 在@ADV@cmn 学@VERB@cmn 的@PRT@cmn 就是@VERB@cmn world@NOUN@eng cinema@NOUN@eng
+gold sentence: 现在@NOUN@cmn 的@PRT@cmn 科目@NOUN@cmn 哦@INTJ@cmn 现在@NOUN@cmn 我@PRON@cmn 在@ADP@cmn 学@VERB@cmn 的@PRT@cmn 就是@VERB@cmn world@NOUN@eng cinema@NOUN@eng
 
 dev sentence: 好像@ADV@cmn 我们@PRON@cmn 的@PRT@cmn report@NOUN@eng 应该@VERB@cmn 有@VERB@cmn 全部@DET@cmn 的@PRT@cmn 东西@NOUN@cmn 了@PRT@cmn
 gold sentence: 好像@ADV@cmn 我们@PRON@cmn 的@PRT@cmn report@NOUN@eng 应该@VERB@cmn 有@VERB@cmn 全部@DET@cmn 的@PRT@cmn 东西@NOUN@cmn 了@PRT@cmn
@@ -365,10 +357,11 @@ gold sentence: 被动@VERB@cmn 我@PRON@cmn 是@VERB@cmn 等@VERB@cmn 那个@DET
 dev sentence: 哦@INTJ@cmn 我@PRON@cmn 觉得@VERB@cmn 会@VERB@cmn erm@DSC@undef
 gold sentence: 哦@INTJ@cmn 我@PRON@cmn 觉得@VERB@cmn 会@VERB@cmn erm@DSC@undef
 
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev tok: last@ADJ@eng    gold tok: last@VERB@eng
 dev tok: err@VERB@eng    gold tok: err@INTJ@eng
 dev sentence: the@DET@eng training@NOUN@eng 啊@INTJ@cmn 会@VERB@cmn last@ADJ@eng for@ADP@eng one@NUM@eng week@NOUN@eng err@VERB@eng seven@NUM@eng days@NOUN@eng
-gold sentence: the@DET@eng training@NOUN@eng 啊@INTJ@cmn 会@VERB@cmn last@VERB@eng for@ADP@eng one@NUM@eng week@NOUN@eng err@INTJ@eng seven@NUM@eng days@NOUN@eng
+gold sentence: the@DET@eng training@NOUN@eng 啊@PRT@cmn 会@VERB@cmn last@VERB@eng for@ADP@eng one@NUM@eng week@NOUN@eng err@INTJ@eng seven@NUM@eng days@NOUN@eng
 
 dev sentence: internet@NOUN@eng 就@ADV@cmn 没有@VERB@cmn 什么@DET@cmn 看戏@VERB@cmn 了@PRT@cmn
 gold sentence: internet@NOUN@eng 就@ADV@cmn 没有@VERB@cmn 什么@DET@cmn 看戏@VERB@cmn 了@PRT@cmn
@@ -384,40 +377,33 @@ dev sentence: that@DET@eng 's@VERB@eng why@ADV@eng that@DET@eng 's@VERB@eng why@
 gold sentence: that@PRON@eng 's@VERB@eng why@ADV@eng that@PRON@eng 's@VERB@eng why@ADV@eng you@PRON@eng see@VERB@eng my@PRON@eng age@NOUN@eng is@VERB@eng twenty@NUM@eng one@NUM@eng ppl@XXX@XXX
 
 dev tok: 快@VERB@cmn    gold tok: 快@ADJ@cmn
-dev tok: 吧@PRT@cmn    gold tok: 吧@INTJ@cmn
 dev sentence: 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 那么@ADV@cmn 快@VERB@cmn I@PRON@eng think@VERB@eng half@DET@eng an@DET@eng hour@NOUN@eng twenty@NUM@eng minutes@NOUN@eng to@PRT@eng half@DET@eng an@DET@eng hour@NOUN@eng 这样@ADV@cmn 吧@PRT@cmn
-gold sentence: 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 那么@ADV@cmn 快@ADJ@cmn I@PRON@eng think@VERB@eng half@DET@eng an@DET@eng hour@NOUN@eng twenty@NUM@eng minutes@NOUN@eng to@PRT@eng half@DET@eng an@DET@eng hour@NOUN@eng 这样@ADV@cmn 吧@INTJ@cmn
+gold sentence: 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 那么@ADV@cmn 快@ADJ@cmn I@PRON@eng think@VERB@eng half@DET@eng an@DET@eng hour@NOUN@eng twenty@NUM@eng minutes@NOUN@eng to@PRT@eng half@DET@eng an@DET@eng hour@NOUN@eng 这样@ADV@cmn 吧@PRT@cmn
 
-dev tok: 哪里@PRON@cmn    gold tok: 哪里@ADV@cmn
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev sentence: 哪里@PRON@cmn 啊@PRT@cmn
-gold sentence: 哪里@ADV@cmn 啊@INTJ@cmn
+gold sentence: 哪里@PRON@cmn 啊@PRT@cmn
 
 dev tok: senior@ADJ@eng    gold tok: senior@NOUN@eng
-dev tok: 哪里@PRON@cmn    gold tok: 哪里@ADV@cmn
 dev sentence: in@ADP@eng the@DET@eng end@NOUN@eng senior@ADJ@eng 有@VERB@cmn 不@ADV@cmn 懂@VERB@cmn 跑@VERB@cmn 去@VERB@cmn 哪里@PRON@cmn 就@ADV@cmn
-gold sentence: in@ADP@eng the@DET@eng end@NOUN@eng senior@NOUN@eng 有@VERB@cmn 不@ADV@cmn 懂@VERB@cmn 跑@VERB@cmn 去@VERB@cmn 哪里@ADV@cmn 就@ADV@cmn
+gold sentence: in@ADP@eng the@DET@eng end@NOUN@eng senior@NOUN@eng 有@VERB@cmn 不@ADV@cmn 懂@VERB@cmn 跑@VERB@cmn 去@VERB@cmn 哪里@PRON@cmn 就@ADV@cmn
 
 dev tok: 而且@ADV@cmn    gold tok: 而且@CONJ@cmn
 dev sentence: 而且@ADV@cmn
 gold sentence: 而且@CONJ@cmn
 
-dev tok: 你@PRON@cmn    gold tok: 你@NOUN@cmn
 dev tok: 来@PRT@cmn    gold tok: 来@VERB@cmn
 dev sentence: 是@VERB@cmn 有@VERB@cmn office@NOUN@eng hour@NOUN@eng but@CONJ@eng then@ADV@eng manager@NOUN@eng 不@ADV@cmn 会@VERB@cmn 说@VERB@cmn 好像@ADV@cmn 规定@VERB@cmn 你@PRON@cmn 说@VERB@cmn 一定@ADV@cmn 要@VERB@cmn 在@ADP@cmn 这个@DET@cmn 时间@NOUN@cmn 来@PRT@cmn 你@PRON@cmn 自己@PRON@cmn 安排@VERB@cmn 时间@NOUN@cmn 咯@DSC@undef
-gold sentence: 是@VERB@cmn 有@VERB@cmn office@NOUN@eng hour@NOUN@eng but@CONJ@eng then@ADV@eng manager@NOUN@eng 不@ADV@cmn 会@VERB@cmn 说@VERB@cmn 好像@ADV@cmn 规定@VERB@cmn 你@NOUN@cmn 说@VERB@cmn 一定@ADV@cmn 要@VERB@cmn 在@ADP@cmn 这个@DET@cmn 时间@NOUN@cmn 来@VERB@cmn 你@PRON@cmn 自己@PRON@cmn 安排@VERB@cmn 时间@NOUN@cmn 咯@DSC@undef
+gold sentence: 是@VERB@cmn 有@VERB@cmn office@NOUN@eng hour@NOUN@eng but@CONJ@eng then@ADV@eng manager@NOUN@eng 不@ADV@cmn 会@VERB@cmn 说@VERB@cmn 好像@ADV@cmn 规定@VERB@cmn 你@PRON@cmn 说@VERB@cmn 一定@ADV@cmn 要@VERB@cmn 在@ADP@cmn 这个@DET@cmn 时间@NOUN@cmn 来@VERB@cmn 你@PRON@cmn 自己@PRON@cmn 安排@VERB@cmn 时间@NOUN@cmn 咯@DSC@undef
 
 dev tok: something@NOUN@eng    gold tok: something@PRON@eng
-dev tok: like@ADP@eng    gold tok: like@VERB@eng
 dev sentence: I@PRON@eng do@VERB@eng n't@ADV@eng know@VERB@eng I@PRON@eng I@PRON@eng not@ADV@eng say@VERB@eng I@PRON@eng very@ADV@eng good@ADJ@eng or@CONJ@eng something@NOUN@eng lah@DSC@undef but@CONJ@eng I@PRON@eng just@ADV@eng like@ADP@eng now@ADV@eng 这里@PRON@cmn then@ADV@eng 没有@VERB@cmn 什么@DET@cmn 地方@NOUN@cmn not@ADV@eng much@ADJ@eng space@NOUN@eng to@PRT@eng give@VERB@eng me@PRON@eng to@PRT@eng develop@VERB@eng myself@PRON@eng as@ADP@eng what@PRON@eng I@PRON@eng thought@VERB@eng I@PRON@eng I@PRON@eng can@VERB@eng have@VERB@eng lah@DSC@undef then@ADV@eng
-gold sentence: I@PRON@eng do@VERB@eng n't@ADV@eng know@VERB@eng I@PRON@eng I@PRON@eng not@ADV@eng say@VERB@eng I@PRON@eng very@ADV@eng good@ADJ@eng or@CONJ@eng something@PRON@eng lah@DSC@undef but@CONJ@eng I@PRON@eng just@ADV@eng like@VERB@eng now@ADV@eng 这里@PRON@cmn then@ADV@eng 没有@VERB@cmn 什么@DET@cmn 地方@NOUN@cmn not@ADV@eng much@ADJ@eng space@NOUN@eng to@PRT@eng give@VERB@eng me@PRON@eng to@PRT@eng develop@VERB@eng myself@PRON@eng as@ADP@eng what@PRON@eng I@PRON@eng thought@VERB@eng I@PRON@eng I@PRON@eng can@VERB@eng have@VERB@eng lah@DSC@undef then@ADV@eng
+gold sentence: I@PRON@eng do@VERB@eng n't@ADV@eng know@VERB@eng I@PRON@eng I@PRON@eng not@ADV@eng say@VERB@eng I@PRON@eng very@ADV@eng good@ADJ@eng or@CONJ@eng something@PRON@eng lah@DSC@undef but@CONJ@eng I@PRON@eng just@ADV@eng like@ADP@eng now@ADV@eng 这里@PRON@cmn then@ADV@eng 没有@VERB@cmn 什么@DET@cmn 地方@NOUN@cmn not@ADV@eng much@ADJ@eng space@NOUN@eng to@PRT@eng give@VERB@eng me@PRON@eng to@PRT@eng develop@VERB@eng myself@PRON@eng as@ADP@eng what@PRON@eng I@PRON@eng thought@VERB@eng I@PRON@eng I@PRON@eng can@VERB@eng have@VERB@eng lah@DSC@undef then@ADV@eng
 
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
 dev tok: 那个@PRON@cmn    gold tok: 那个@DET@cmn
 dev tok: bush@NOUN@eng    gold tok: bush@PROPN@eng
 dev tok: 那个@PRON@cmn    gold tok: 那个@DET@cmn
 dev sentence: 他@PRON@cmn 有@VERB@cmn 油@NOUN@cmn 他@PRON@cmn 没有@VERB@cmn 现在@NOUN@cmn 问题@NOUN@cmn 是@VERB@cmn 那个@PRON@cmn bush@NOUN@eng 的@PRT@cmn 朋友@NOUN@cmn 那个@PRON@cmn 他们@PRON@cmn 是@VERB@cmn relationship@NOUN@eng 是@VERB@cmn 他@PRON@cmn 不@ADV@cmn 要@VERB@cmn 他@PRON@cmn 朋友@NOUN@cmn 死@VERB@cmn
-gold sentence: 他@PRON@cmn 有@VERB@cmn 油@NOUN@cmn 他@PRON@cmn 没有@VERB@cmn 现在@ADV@cmn 问题@NOUN@cmn 是@VERB@cmn 那个@DET@cmn bush@PROPN@eng 的@PRT@cmn 朋友@NOUN@cmn 那个@DET@cmn 他们@PRON@cmn 是@VERB@cmn relationship@NOUN@eng 是@VERB@cmn 他@PRON@cmn 不@ADV@cmn 要@VERB@cmn 他@PRON@cmn 朋友@NOUN@cmn 死@VERB@cmn
+gold sentence: 他@PRON@cmn 有@VERB@cmn 油@NOUN@cmn 他@PRON@cmn 没有@VERB@cmn 现在@NOUN@cmn 问题@NOUN@cmn 是@VERB@cmn 那个@DET@cmn bush@PROPN@eng 的@PRT@cmn 朋友@NOUN@cmn 那个@DET@cmn 他们@PRON@cmn 是@VERB@cmn relationship@NOUN@eng 是@VERB@cmn 他@PRON@cmn 不@ADV@cmn 要@VERB@cmn 他@PRON@cmn 朋友@NOUN@cmn 死@VERB@cmn
 
 dev tok: 是@VERB@cmn    gold tok: 是@INTJ@cmn
 dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
@@ -442,24 +428,19 @@ dev sentence: 他们@PRON@cmn 是@VERB@cmn 有@VERB@cmn 经过@NOUN@cmn 训练@N
 gold sentence: 他们@PRON@cmn 是@VERB@cmn 有@VERB@cmn 经过@VERB@cmn 训练@NOUN@cmn 的@PRT@cmn
 
 dev tok: 端午节@NOUN@cmn    gold tok: 端午节@PROPN@cmn
-dev tok: much@ADV@eng    gold tok: much@ADJ@eng
 dev sentence: 端午节@NOUN@cmn is@VERB@eng not@ADV@eng much@ADV@eng 啦@DSC@undef we@PRON@eng will@VERB@eng just@ADV@eng er@DSC@undef
-gold sentence: 端午节@PROPN@cmn is@VERB@eng not@ADV@eng much@ADJ@eng 啦@DSC@undef we@PRON@eng will@VERB@eng just@ADV@eng er@DSC@undef
+gold sentence: 端午节@PROPN@cmn is@VERB@eng not@ADV@eng much@ADV@eng 啦@DSC@undef we@PRON@eng will@VERB@eng just@ADV@eng er@DSC@undef
 
 dev tok: 便宜@NOUN@cmn    gold tok: 便宜@VERB@cmn
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev sentence: 他@PRON@cmn 的@PRT@cmn 东西@NOUN@cmn 好吃@VERB@cmn 然后@ADV@cmn 有@VERB@cmn 便宜@NOUN@cmn 最@ADV@cmn 重要@VERB@cmn can@VERB@eng be@VERB@eng 是@VERB@cmn 便宜@VERB@cmn 啊@PRT@cmn 它@PRON@cmn 东西@NOUN@cmn 很@ADV@cmn 便宜@VERB@cmn
-gold sentence: 他@PRON@cmn 的@PRT@cmn 东西@NOUN@cmn 好吃@VERB@cmn 然后@ADV@cmn 有@VERB@cmn 便宜@VERB@cmn 最@ADV@cmn 重要@VERB@cmn can@VERB@eng be@VERB@eng 是@VERB@cmn 便宜@VERB@cmn 啊@INTJ@cmn 它@PRON@cmn 东西@NOUN@cmn 很@ADV@cmn 便宜@VERB@cmn
+gold sentence: 他@PRON@cmn 的@PRT@cmn 东西@NOUN@cmn 好吃@VERB@cmn 然后@ADV@cmn 有@VERB@cmn 便宜@VERB@cmn 最@ADV@cmn 重要@VERB@cmn can@VERB@eng be@VERB@eng 是@VERB@cmn 便宜@VERB@cmn 啊@PRT@cmn 它@PRON@cmn 东西@NOUN@cmn 很@ADV@cmn 便宜@VERB@cmn
 
-dev tok: 没有@ADV@cmn    gold tok: 没有@VERB@cmn
-dev tok: 没有@ADV@cmn    gold tok: 没有@VERB@cmn
-dev tok: 没有@ADV@cmn    gold tok: 没有@VERB@cmn
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
 dev tok: like@ADP@eng    gold tok: like@INTJ@eng
 dev tok: like@ADP@eng    gold tok: like@INTJ@eng
 dev tok: 那种@NOUN@cmn    gold tok: 那种@DET@cmn
 dev sentence: yah@DSC@undef 没有@ADV@cmn 吃@VERB@cmn ppl@XXX@XXX 我@PRON@cmn 没有@ADV@cmn ppl@XXX@XXX 没有@ADV@cmn 吃@VERB@cmn 过@PRT@cmn 好像@ADV@cmn 因为@ADP@cmn 我@PRON@cmn 不@ADV@cmn 知道@VERB@cmn leh@DSC@undef like@ADP@eng like@ADP@eng 我@PRON@cmn family@NOUN@eng 好像@ADV@cmn 不@ADV@cmn 吃@VERB@cmn 那种@NOUN@cmn 的@PRT@cmn lorh@DSC@undef as@ADP@eng in@ADP@eng
-gold sentence: yah@DSC@undef 没有@VERB@cmn 吃@VERB@cmn ppl@XXX@XXX 我@PRON@cmn 没有@VERB@cmn ppl@XXX@XXX 没有@VERB@cmn 吃@VERB@cmn 过@PRT@cmn 好像@ADV@cmn 因为@CONJ@cmn 我@PRON@cmn 不@ADV@cmn 知道@VERB@cmn leh@DSC@undef like@INTJ@eng like@INTJ@eng 我@PRON@cmn family@NOUN@eng 好像@ADV@cmn 不@ADV@cmn 吃@VERB@cmn 那种@DET@cmn 的@PRT@cmn lorh@DSC@undef as@ADP@eng in@ADP@eng
+gold sentence: yah@DSC@undef 没有@ADV@cmn 吃@VERB@cmn ppl@XXX@XXX 我@PRON@cmn 没有@ADV@cmn ppl@XXX@XXX 没有@ADV@cmn 吃@VERB@cmn 过@PRT@cmn 好像@ADV@cmn 因为@CONJ@cmn 我@PRON@cmn 不@ADV@cmn 知道@VERB@cmn leh@DSC@undef like@INTJ@eng like@INTJ@eng 我@PRON@cmn family@NOUN@eng 好像@ADV@cmn 不@ADV@cmn 吃@VERB@cmn 那种@DET@cmn 的@PRT@cmn lorh@DSC@undef as@ADP@eng in@ADP@eng
 
 dev tok: 会考@NOUN@cmn    gold tok: 会考@VERB@cmn
 dev sentence: sunday@PROPN@eng 的@PRT@cmn 第一@NUM@cmn 个@NUM@cmn 星期@NOUN@cmn 会考@NOUN@cmn 然后@ADV@cmn around@ADP@eng mid@ADJ@eng year@NOUN@eng 就@ADV@cmn
@@ -484,9 +465,8 @@ gold sentence: err@INTJ@eng 我@PRON@cmn 跟着@VERB@cmn hockey@NOUN@eng people@
 
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
 dev tok: 过@VERB@cmn    gold tok: 过@PRT@cmn
-dev tok: 嘛@PRT@cmn    gold tok: 嘛@INTJ@cmn
 dev sentence: 你@PRON@cmn 其实@ADV@cmn 也@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 什么@DET@cmn 机会@NOUN@cmn 升@VERB@cmn 的@PRT@cmn 因为@ADP@cmn 我@PRON@cmn consult@VERB@eng 过@VERB@cmn 我@PRON@cmn 的@PRT@cmn 姐姐@NOUN@cmn 问@VERB@cmn 看看@VERB@cmn 她@PRON@cmn 嘛@PRT@cmn
-gold sentence: 你@PRON@cmn 其实@ADV@cmn 也@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 什么@DET@cmn 机会@NOUN@cmn 升@VERB@cmn 的@PRT@cmn 因为@CONJ@cmn 我@PRON@cmn consult@VERB@eng 过@PRT@cmn 我@PRON@cmn 的@PRT@cmn 姐姐@NOUN@cmn 问@VERB@cmn 看看@VERB@cmn 她@PRON@cmn 嘛@INTJ@cmn
+gold sentence: 你@PRON@cmn 其实@ADV@cmn 也@ADV@cmn 是@VERB@cmn 没有@VERB@cmn 什么@DET@cmn 机会@NOUN@cmn 升@VERB@cmn 的@PRT@cmn 因为@CONJ@cmn 我@PRON@cmn consult@VERB@eng 过@PRT@cmn 我@PRON@cmn 的@PRT@cmn 姐姐@NOUN@cmn 问@VERB@cmn 看看@VERB@cmn 她@PRON@cmn 嘛@PRT@cmn
 
 dev tok: 真真@ADJ@cmn    gold tok: 真真@ADV@cmn
 dev tok: 日@NOUN@cmn    gold tok: 日@PROPN@cmn
@@ -496,11 +476,10 @@ gold sentence: 你@PRON@cmn 去@VERB@cmn 那边@PRON@cmn 你@PRON@cmn 有@VERB@c
 dev sentence: yah@DSC@undef it@PRON@eng 's@VERB@eng the@DET@eng whole@ADJ@eng day@NOUN@eng
 gold sentence: yah@DSC@undef it@PRON@eng 's@VERB@eng the@DET@eng whole@ADJ@eng day@NOUN@eng
 
-dev tok: 年@NUM@cmn    gold tok: 年@NOUN@cmn
 dev tok: 一点@NUM@cmn    gold tok: 一点@ADV@cmn
 dev tok: 哦@PRT@cmn    gold tok: 哦@INTJ@cmn
 dev sentence: 很@ADV@cmn 小@ADJ@cmn 很@ADV@cmn 小@ADJ@cmn 在@ADP@cmn 很@ADV@cmn 北@ADJ@cmn 的@PRT@cmn 地方@NOUN@cmn then@ADV@eng 过@VERB@cmn 后@PRT@cmn 在@ADP@cmn 那边@PRON@cmn 呆@VERB@cmn 两@NUM@cmn 年@NUM@cmn 那样@ADV@cmn 是@VERB@cmn 有@VERB@cmn 一点@NUM@cmn 闷@VERB@cmn 哦@PRT@cmn
-gold sentence: 很@ADV@cmn 小@ADJ@cmn 很@ADV@cmn 小@ADJ@cmn 在@ADP@cmn 很@ADV@cmn 北@ADJ@cmn 的@PRT@cmn 地方@NOUN@cmn then@ADV@eng 过@VERB@cmn 后@PRT@cmn 在@ADP@cmn 那边@PRON@cmn 呆@VERB@cmn 两@NUM@cmn 年@NOUN@cmn 那样@ADV@cmn 是@VERB@cmn 有@VERB@cmn 一点@ADV@cmn 闷@VERB@cmn 哦@INTJ@cmn
+gold sentence: 很@ADV@cmn 小@ADJ@cmn 很@ADV@cmn 小@ADJ@cmn 在@ADP@cmn 很@ADV@cmn 北@ADJ@cmn 的@PRT@cmn 地方@NOUN@cmn then@ADV@eng 过@VERB@cmn 后@PRT@cmn 在@ADP@cmn 那边@PRON@cmn 呆@VERB@cmn 两@NUM@cmn 年@NUM@cmn 那样@ADV@cmn 是@VERB@cmn 有@VERB@cmn 一点@ADV@cmn 闷@VERB@cmn 哦@INTJ@cmn
 
 dev tok: 等@PRT@cmn    gold tok: 等@VERB@cmn
 dev sentence: 啊@INTJ@cmn 等@PRT@cmn 咯@DSC@undef 我@PRON@cmn 的@PRT@cmn 朋友@NOUN@cmn 身边@NOUN@cmn 的@PRT@cmn hor@DSC@undef
@@ -509,18 +488,15 @@ gold sentence: 啊@INTJ@cmn 等@VERB@cmn 咯@DSC@undef 我@PRON@cmn 的@PRT@cmn 
 dev tok: check@NOUN@eng    gold tok: check@VERB@eng
 dev tok: 那个@PRON@cmn    gold tok: 那个@DET@cmn
 dev tok: 用@VERB@cmn    gold tok: 用@NOUN@cmn
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev sentence: check@NOUN@eng 了@PRT@cmn 那个@DET@cmn 过@VERB@cmn 后@PRT@cmn 你@PRON@cmn 就@ADV@cmn 知道@VERB@cmn 那个@PRON@cmn tank@NOUN@eng 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 用@VERB@cmn 啊@PRT@cmn
-gold sentence: check@VERB@eng 了@PRT@cmn 那个@DET@cmn 过@VERB@cmn 后@PRT@cmn 你@PRON@cmn 就@ADV@cmn 知道@VERB@cmn 那个@DET@cmn tank@NOUN@eng 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 用@NOUN@cmn 啊@INTJ@cmn
+gold sentence: check@VERB@eng 了@PRT@cmn 那个@DET@cmn 过@VERB@cmn 后@PRT@cmn 你@PRON@cmn 就@ADV@cmn 知道@VERB@cmn 那个@DET@cmn tank@NOUN@eng 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 用@NOUN@cmn 啊@PRT@cmn
 
 dev tok: 完@VERB@cmn    gold tok: 完@ADV@cmn
 dev sentence: 朋友@NOUN@cmn 用气@VERB@cmn 用@VERB@cmn 完@VERB@cmn 了@PRT@cmn 要@VERB@cmn
 gold sentence: 朋友@NOUN@cmn 用气@VERB@cmn 用@VERB@cmn 完@ADV@cmn 了@PRT@cmn 要@VERB@cmn
 
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev sentence: er@DSC@undef 吃@VERB@cmn potato@NOUN@eng 叫@VERB@cmn 什么@PRON@cmn 啊@PRT@cmn 番薯@NOUN@cmn 啊@PRT@cmn
-gold sentence: er@DSC@undef 吃@VERB@cmn potato@NOUN@eng 叫@VERB@cmn 什么@PRON@cmn 啊@INTJ@cmn 番薯@NOUN@cmn 啊@INTJ@cmn
+gold sentence: er@DSC@undef 吃@VERB@cmn potato@NOUN@eng 叫@VERB@cmn 什么@PRON@cmn 啊@PRT@cmn 番薯@NOUN@cmn 啊@PRT@cmn
 
 dev tok: 小@ADJ@cmn    gold tok: 小@VERB@cmn
 dev tok: 小@ADJ@cmn    gold tok: 小@VERB@cmn
@@ -548,12 +524,11 @@ dev tok: 旧@NOUN@cmn    gold tok: 旧@VERB@cmn
 dev sentence: 因为@ADP@cmn 那个@DET@cmn 电视@NOUN@cmn 很@ADV@cmn 烂@VERB@cmn 有@VERB@cmn 一点@NUM@cmn 旧@NOUN@cmn 了@PRT@cmn
 gold sentence: 因为@CONJ@cmn 那个@DET@cmn 电视@NOUN@cmn 很@ADV@cmn 烂@VERB@cmn 有@VERB@cmn 一点@ADV@cmn 旧@VERB@cmn 了@PRT@cmn
 
-dev tok: 分钟@NUM@cmn    gold tok: 分钟@NOUN@cmn
 dev tok: 那个@PRON@cmn    gold tok: 那个@DET@cmn
 dev tok: 那个@PRON@cmn    gold tok: 那个@DET@cmn
 dev tok: 罢了@PRT@cmn    gold tok: 罢了@ADV@cmn
 dev sentence: 了@PRT@cmn 掺@VERB@cmn 埋@VERB@cmn 那个@DET@cmn 四十五@NUM@cmn 分钟@NUM@cmn 那个@DET@cmn 那个@PRON@cmn 那个@DET@cmn bus@NOUN@eng 的@PRT@cmn 那个@PRON@cmn 就@ADV@cmn 整个@ADV@cmn 才@ADV@cmn 三十五@NUM@cmn 块@NUM@cmn 罢了@PRT@cmn per@ADP@eng person@NOUN@eng
-gold sentence: 了@PRT@cmn 掺@VERB@cmn 埋@VERB@cmn 那个@DET@cmn 四十五@NUM@cmn 分钟@NOUN@cmn 那个@DET@cmn 那个@DET@cmn 那个@DET@cmn bus@NOUN@eng 的@PRT@cmn 那个@DET@cmn 就@ADV@cmn 整个@ADV@cmn 才@ADV@cmn 三十五@NUM@cmn 块@NUM@cmn 罢了@ADV@cmn per@ADP@eng person@NOUN@eng
+gold sentence: 了@PRT@cmn 掺@VERB@cmn 埋@VERB@cmn 那个@DET@cmn 四十五@NUM@cmn 分钟@NUM@cmn 那个@DET@cmn 那个@DET@cmn 那个@DET@cmn bus@NOUN@eng 的@PRT@cmn 那个@DET@cmn 就@ADV@cmn 整个@ADV@cmn 才@ADV@cmn 三十五@NUM@cmn 块@NUM@cmn 罢了@ADV@cmn per@ADP@eng person@NOUN@eng
 
 dev tok: first@ADJ@eng    gold tok: first@ADV@eng
 dev tok: 所以@ADV@cmn    gold tok: 所以@CONJ@cmn
@@ -585,37 +560,29 @@ dev tok: kway-chup@ADP@loan    gold tok: kway-chup@NOUN@loan
 dev sentence: ah@DSC@undef 喜欢@VERB@cmn 吃@VERB@cmn 那种@ADJ@cmn 味道@NOUN@cmn 很@ADV@cmn 重@VERB@cmn 的@PRT@cmn ah@DSC@undef like@ADP@eng kway-chup@ADP@loan ah@DSC@undef
 gold sentence: ah@DSC@undef 喜欢@VERB@cmn 吃@VERB@cmn 那种@DET@cmn 味道@NOUN@cmn 很@ADV@cmn 重@VERB@cmn 的@PRT@cmn ah@DSC@undef like@INTJ@eng kway-chup@NOUN@loan ah@DSC@undef
 
-dev tok: 里面@NOUN@cmn    gold tok: 里面@NON@cmn
 dev tok: flash@VERB@eng    gold tok: flash@NOUN@eng
 dev sentence: 那@ADV@cmn 如果@SCONJ@cmn 人们@NOUN@cmn 在@ADP@cmn hall@NOUN@eng 里面@NOUN@cmn 的话@PRT@cmn 他们@PRON@cmn 会@VERB@cmn 喜欢@VERB@cmn 就@ADV@cmn 是@VERB@cmn 它@PRON@cmn 的@PRT@cmn flash@VERB@eng 向@ADP@cmn 上去@VERB@cmn 上面@NOUN@cmn 向@ADP@cmn 天@NOUN@cmn loh@DSC@undef
-gold sentence: 那@ADV@cmn 如果@SCONJ@cmn 人们@NOUN@cmn 在@ADP@cmn hall@NOUN@eng 里面@NON@cmn 的话@PRT@cmn 他们@PRON@cmn 会@VERB@cmn 喜欢@VERB@cmn 就@ADV@cmn 是@VERB@cmn 它@PRON@cmn 的@PRT@cmn flash@NOUN@eng 向@ADP@cmn 上去@VERB@cmn 上面@NOUN@cmn 向@ADP@cmn 天@NOUN@cmn loh@DSC@undef
+gold sentence: 那@ADV@cmn 如果@SCONJ@cmn 人们@NOUN@cmn 在@ADP@cmn hall@NOUN@eng 里面@NOUN@cmn 的话@PRT@cmn 他们@PRON@cmn 会@VERB@cmn 喜欢@VERB@cmn 就@ADV@cmn 是@VERB@cmn 它@PRON@cmn 的@PRT@cmn flash@NOUN@eng 向@ADP@cmn 上去@VERB@cmn 上面@NOUN@cmn 向@ADP@cmn 天@NOUN@cmn loh@DSC@undef
 
 dev tok: 哪@PRON@cmn    gold tok: 哪@DET@cmn
 dev tok: 一个@NUM@cmn    gold tok: 一个@PRON@cmn
 dev sentence: have@VERB@eng to@PRT@eng depend@VERB@eng on@ADP@eng 去@VERB@cmn 哪@PRON@cmn 一个@NUM@cmn maybe@ADV@eng 小学@NOUN@cmn 还@ADV@cmn 是@VERB@cmn 中学@NOUN@cmn
 gold sentence: have@VERB@eng to@PRT@eng depend@VERB@eng on@ADP@eng 去@VERB@cmn 哪@DET@cmn 一个@PRON@cmn maybe@ADV@eng 小学@NOUN@cmn 还@ADV@cmn 是@VERB@cmn 中学@NOUN@cmn
 
-dev tok: 这边@PRON@cmn    gold tok: 这边@NOUN@cmn
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
-dev tok: 这边@PRON@cmn    gold tok: 这边@NOUN@cmn
 dev tok: 会@NOUN@cmn    gold tok: 会@VERB@cmn
 dev sentence: 这边@PRON@cmn 会@VERB@cmn 因为@ADP@cmn 这边@PRON@cmn 的@PRT@cmn gym@NOUN@eng 会@NOUN@cmn 比较@ADV@cmn 好@VERB@cmn 一点@ADV@cmn
-gold sentence: 这边@NOUN@cmn 会@VERB@cmn 因为@CONJ@cmn 这边@NOUN@cmn 的@PRT@cmn gym@NOUN@eng 会@VERB@cmn 比较@ADV@cmn 好@VERB@cmn 一点@ADV@cmn
+gold sentence: 这边@PRON@cmn 会@VERB@cmn 因为@CONJ@cmn 这边@PRON@cmn 的@PRT@cmn gym@NOUN@eng 会@VERB@cmn 比较@ADV@cmn 好@VERB@cmn 一点@ADV@cmn
 
 dev tok: siemens@FW@eng    gold tok: siemens@PROPN@eng
-dev tok: 么@PRT@cmn    gold tok: 么@INTJ@cmn
 dev tok: 但是@ADV@cmn    gold tok: 但是@CONJ@cmn
-dev tok: 几@NUM@cmn    gold tok: 几@DET@cmn
-dev tok: 几@NUM@cmn    gold tok: 几@DET@cmn
-dev tok: 几@NUM@cmn    gold tok: 几@DET@cmn
 dev sentence: che@DSC@undef siemens@FW@eng che@DSC@undef 我@PRON@cmn 不@ADV@cmn 懂@VERB@cmn 做@VERB@cmn 么@PRT@cmn 最近@NOUN@cmn 会@VERB@cmn 比较@ADV@cmn 差@VERB@cmn 去@VERB@cmn 了@PRT@cmn 但是@ADV@cmn 他@PRON@cmn 有@VERB@cmn 几@NUM@cmn 个@NUM@cmn 几@NUM@cmn 几@NUM@cmn 个@NUM@cmn version@NOUN@eng 出@VERB@cmn 啦@DSC@undef
-gold sentence: che@DSC@undef siemens@PROPN@eng che@DSC@undef 我@PRON@cmn 不@ADV@cmn 懂@VERB@cmn 做@VERB@cmn 么@INTJ@cmn 最近@NOUN@cmn 会@VERB@cmn 比较@ADV@cmn 差@VERB@cmn 去@VERB@cmn 了@PRT@cmn 但是@CONJ@cmn 他@PRON@cmn 有@VERB@cmn 几@DET@cmn 个@NUM@cmn 几@DET@cmn 几@DET@cmn 个@NUM@cmn version@NOUN@eng 出@VERB@cmn 啦@DSC@undef
+gold sentence: che@DSC@undef siemens@PROPN@eng che@DSC@undef 我@PRON@cmn 不@ADV@cmn 懂@VERB@cmn 做@VERB@cmn 么@PRT@cmn 最近@NOUN@cmn 会@VERB@cmn 比较@ADV@cmn 差@VERB@cmn 去@VERB@cmn 了@PRT@cmn 但是@CONJ@cmn 他@PRON@cmn 有@VERB@cmn 几@NUM@cmn 个@NUM@cmn 几@NUM@cmn 几@NUM@cmn 个@NUM@cmn version@NOUN@eng 出@VERB@cmn 啦@DSC@undef
 
 dev tok: so@ADV@eng    gold tok: so@INTJ@eng
-dev tok: 现在@NOUN@cmn    gold tok: 现在@ADV@cmn
 dev tok: D.S.L.R.@NOUN@eng    gold tok: D.S.L.R.@PROPN@eng
 dev sentence: so@ADV@eng 现在@NOUN@cmn actually@ADV@eng 是@VERB@cmn 用@VERB@cmn D.S.L.R.@NOUN@eng 啦@DSC@undef
-gold sentence: so@INTJ@eng 现在@ADV@cmn actually@ADV@eng 是@VERB@cmn 用@VERB@cmn D.S.L.R.@PROPN@eng 啦@DSC@undef
+gold sentence: so@INTJ@eng 现在@NOUN@cmn actually@ADV@eng 是@VERB@cmn 用@VERB@cmn D.S.L.R.@PROPN@eng 啦@DSC@undef
 
 dev tok: 酸辣@VERB@cmn    gold tok: 酸辣@ADJ@cmn
 dev tok: 一点@NUM@cmn    gold tok: 一点@ADV@cmn
@@ -638,9 +605,8 @@ gold sentence: 我@PRON@cmn 这个@DET@cmn major@NOUN@eng 的话@PRT@cmn 因为@
 dev sentence: 有@VERB@cmn
 gold sentence: 有@VERB@cmn
 
-dev tok: 紧@VERB@cmn    gold tok: 紧@ADJ@cmn
 dev sentence: unhappy@ADJ@eng 的@PRT@cmn 东西@NOUN@cmn 我@PRON@cmn 帮@VERB@cmn 你@PRON@cmn 负担@VERB@cmn 不@ADV@cmn 用@VERB@cmn 紧@VERB@cmn
-gold sentence: unhappy@ADJ@eng 的@PRT@cmn 东西@NOUN@cmn 我@PRON@cmn 帮@VERB@cmn 你@PRON@cmn 负担@VERB@cmn 不@ADV@cmn 用@VERB@cmn 紧@ADJ@cmn
+gold sentence: unhappy@ADJ@eng 的@PRT@cmn 东西@NOUN@cmn 我@PRON@cmn 帮@VERB@cmn 你@PRON@cmn 负担@VERB@cmn 不@ADV@cmn 用@VERB@cmn 紧@VERB@cmn
 
 dev tok: 完@VERB@cmn    gold tok: 完@ADV@cmn
 dev tok: 就@ADP@cmn    gold tok: 就@ADV@cmn
@@ -651,20 +617,17 @@ dev sentence: eh@DSC@undef 你@PRON@cmn 飞@VERB@cmn 的@PRT@cmn area@NOUN@eng �
 gold sentence: eh@DSC@undef 你@PRON@cmn 飞@VERB@cmn 的@PRT@cmn area@NOUN@eng 的@PRT@cmn weather@NOUN@eng condition@NOUN@eng
 
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
-dev tok: 那边@PRON@cmn    gold tok: 那边@NOUN@cmn
 dev tok: 因为@ADP@cmn    gold tok: 因为@CONJ@cmn
 dev tok: 冷@NOUN@cmn    gold tok: 冷@VERB@cmn
-dev tok: 嘛@PRT@cmn    gold tok: 嘛@INTJ@cmn
-dev tok: 那边@PRON@cmn    gold tok: 那边@NOUN@cmn
-dev tok: 啊@PRT@cmn    gold tok: 啊@INTJ@cmn
 dev sentence: 因为@ADP@cmn 那边@PRON@cmn 是@VERB@cmn 因为@ADP@cmn 冷@NOUN@cmn 嘛@PRT@cmn 我@PRON@cmn 去@VERB@cmn 那边@PRON@cmn 的@PRT@cmn 时候@NOUN@cmn 是@VERB@cmn 他@PRON@cmn 是@VERB@cmn 啊@PRT@cmn
-gold sentence: 因为@CONJ@cmn 那边@NOUN@cmn 是@VERB@cmn 因为@CONJ@cmn 冷@VERB@cmn 嘛@INTJ@cmn 我@PRON@cmn 去@VERB@cmn 那边@NOUN@cmn 的@PRT@cmn 时候@NOUN@cmn 是@VERB@cmn 他@PRON@cmn 是@VERB@cmn 啊@INTJ@cmn
+gold sentence: 因为@CONJ@cmn 那边@PRON@cmn 是@VERB@cmn 因为@CONJ@cmn 冷@VERB@cmn 嘛@PRT@cmn 我@PRON@cmn 去@VERB@cmn 那边@PRON@cmn 的@PRT@cmn 时候@NOUN@cmn 是@VERB@cmn 他@PRON@cmn 是@VERB@cmn 啊@PRT@cmn
 
 dev tok: j.c.@NOUN@eng    gold tok: j.c.@PROPN@eng
+dev tok: 啊@INTJ@cmn    gold tok: 啊@PRT@cmn
 dev tok: j.c.@NOUN@eng    gold tok: j.c.@PROPN@eng
 dev tok: secondary@ADJ@eng    gold tok: secondary@NOUN@eng
 dev sentence: j.c.@NOUN@eng 啊@INTJ@cmn j.c.@NOUN@eng 我@PRON@cmn 也@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn orh@DSC@undef badminton@NOUN@eng 我@PRON@cmn 从@ADP@cmn secondary@ADJ@eng school@NOUN@eng 就@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn 的@PRT@cmn mm@DSC@undef
-gold sentence: j.c.@PROPN@eng 啊@INTJ@cmn j.c.@PROPN@eng 我@PRON@cmn 也@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn orh@DSC@undef badminton@NOUN@eng 我@PRON@cmn 从@ADP@cmn secondary@NOUN@eng school@NOUN@eng 就@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn 的@PRT@cmn mm@DSC@undef
+gold sentence: j.c.@PROPN@eng 啊@PRT@cmn j.c.@PROPN@eng 我@PRON@cmn 也@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn orh@DSC@undef badminton@NOUN@eng 我@PRON@cmn 从@ADP@cmn secondary@NOUN@eng school@NOUN@eng 就@ADV@cmn 是@VERB@cmn 打@VERB@cmn 羽球@NOUN@cmn 的@PRT@cmn mm@DSC@undef
 
 dev tok: surf@NOUN@eng    gold tok: surf@VERB@eng
 dev tok: 接球@NOUN@cmn    gold tok: 接球@VERB@cmn
@@ -679,9 +642,8 @@ gold sentence: 他们@PRON@cmn 是@VERB@cmn 静静@ADV@cmn 在@ADP@cmn 家里@NO
 dev tok: new@ADJ@eng    gold tok: new@PROPN@eng
 dev tok: south@ADJ@eng    gold tok: south@PROPN@eng
 dev tok: wales@NOUN@eng    gold tok: wales@PROPN@eng
-dev tok: 那边@PRON@cmn    gold tok: 那边@NOUN@cmn
 dev sentence: ah@DSC@undef new@ADJ@eng south@ADJ@eng wales@NOUN@eng 那边@PRON@cmn
-gold sentence: ah@DSC@undef new@PROPN@eng south@PROPN@eng wales@PROPN@eng 那边@NOUN@cmn
+gold sentence: ah@DSC@undef new@PROPN@eng south@PROPN@eng wales@PROPN@eng 那边@PRON@cmn
 
 dev sentence: 好像@ADV@cmn 你@PRON@cmn 要@VERB@cmn 买@VERB@cmn 衣服@NOUN@cmn 有@VERB@cmn 鞋子@NOUN@cmn 有@VERB@cmn 然后@ADV@cmn
 gold sentence: 好像@ADV@cmn 你@PRON@cmn 要@VERB@cmn 买@VERB@cmn 衣服@NOUN@cmn 有@VERB@cmn 鞋子@NOUN@cmn 有@VERB@cmn 然后@ADV@cmn
@@ -699,10 +661,9 @@ dev sentence: 我@PRON@cmn 只@ADV@cmn 是@VERB@cmn 我@PRON@cmn 是@VERB@cmn �
 gold sentence: 我@PRON@cmn 只@ADV@cmn 是@VERB@cmn 我@PRON@cmn 是@VERB@cmn 从@ADP@cmn jelutong@PROPN@loan 去@VERB@cmn 也@ADV@cmn 不@ADV@cmn 会@VERB@cmn 太@ADV@cmn 远@VERB@cmn 啦@DSC@undef
 
 dev tok: 给@VERB@cmn    gold tok: 给@ADP@cmn
-dev tok: 她@PRON@cmn    gold tok: 她@NOUN@cmn
 dev tok: 她家@VERB@cmn    gold tok: 她家@NOUN@cmn
 dev sentence: christmas@NOUN@eng 的@PRT@cmn 时候@NOUN@cmn 记得@VERB@cmn 送@VERB@cmn 卡@NOUN@cmn 给@VERB@cmn 她@PRON@cmn 恩@INTJ@cmn 寄@VERB@cmn 去@VERB@cmn 她家@VERB@cmn
-gold sentence: christmas@NOUN@eng 的@PRT@cmn 时候@NOUN@cmn 记得@VERB@cmn 送@VERB@cmn 卡@NOUN@cmn 给@ADP@cmn 她@NOUN@cmn 恩@INTJ@cmn 寄@VERB@cmn 去@VERB@cmn 她家@NOUN@cmn
+gold sentence: christmas@NOUN@eng 的@PRT@cmn 时候@NOUN@cmn 记得@VERB@cmn 送@VERB@cmn 卡@NOUN@cmn 给@ADP@cmn 她@PRON@cmn 恩@INTJ@cmn 寄@VERB@cmn 去@VERB@cmn 她家@NOUN@cmn
 
 dev tok: 这个@PRON@cmn    gold tok: 这个@DET@cmn
 dev sentence: 啊@INTJ@cmn 嗯@INTJ@cmn 其实@ADV@cmn 这个@PRON@cmn training@NOUN@eng 有@VERB@cmn 三@NUM@cmn 个@NUM@cmn 人@NOUN@cmn 会@VERB@cmn involved@VERB@eng
@@ -717,11 +678,10 @@ gold sentence: hello@INTJ@eng hello@INTJ@eng
 dev sentence: but@CONJ@eng then@ADV@eng again@ADV@eng
 gold sentence: but@CONJ@eng then@ADV@eng again@ADV@eng
 
-dev tok: 朋友@NOUN@cmn    gold tok: 朋友@PRON@cmn
 dev tok: 看@PRT@cmn    gold tok: 看@VERB@cmn
 dev tok: 多@VERB@cmn    gold tok: 多@NUM@cmn
 dev sentence: 就是@ADV@cmn 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 看@VERB@cmn 只@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@NUM@cmn 人@NOUN@cmn 看@VERB@cmn 我@PRON@cmn 很@ADV@cmn 多@NUM@cmn 朋友@NOUN@cmn 看@PRT@cmn 也@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@VERB@cmn season@NOUN@eng
-gold sentence: 就是@ADV@cmn 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 看@VERB@cmn 只@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@NUM@cmn 人@NOUN@cmn 看@VERB@cmn 我@PRON@cmn 很@ADV@cmn 多@NUM@cmn 朋友@PRON@cmn 看@VERB@cmn 也@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@NUM@cmn season@NOUN@eng
+gold sentence: 就是@ADV@cmn 没@ADV@cmn 有@VERB@cmn 没@ADV@cmn 有@VERB@cmn 看@VERB@cmn 只@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@NUM@cmn 人@NOUN@cmn 看@VERB@cmn 我@PRON@cmn 很@ADV@cmn 多@NUM@cmn 朋友@NOUN@cmn 看@VERB@cmn 也@ADV@cmn 是@VERB@cmn 很@ADV@cmn 多@NUM@cmn season@NOUN@eng
 
 dev tok: 给@VERB@cmn    gold tok: 给@ADP@cmn
 dev sentence: and@CONJ@eng 那个@DET@cmn 刀@NOUN@cmn 是@VERB@cmn specially@ADV@eng made@VERB@eng 给@VERB@cmn 你@PRON@cmn 的@PRT@cmn
