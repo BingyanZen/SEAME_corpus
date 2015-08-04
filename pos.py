@@ -1,20 +1,23 @@
+import codecs
 import sys
 
 def main():
     if len(sys.argv) < 3:
-	print "Usage: python pos.py <tagger output> <reference file>"
+	print "Usage: python pos.py <tagger output> <reference file> <path to output file>"
 	exit(1)
 
-    infile = open(sys.argv[1], "r")
+    infile = codecs.open(sys.argv[1], "r", 'utf-8')
     user_sentences = infile.readlines()
     infile.close()
 
-    infile = open(sys.argv[2], "r")
+    infile = codecs.open(sys.argv[2], "r", 'utf-8')
     correct_sentences = infile.readlines()
     infile.close()
 
     num_correct = 0
     total = 0
+
+    f = codecs.open(sys.argv[3], 'w', 'utf-8')
 
     for user_sent, correct_sent in zip(user_sentences, correct_sentences):
         user_tok = user_sent.split()
@@ -32,14 +35,21 @@ def main():
                 num_correct += 1
             elif u != c:
                 num_incorrect +=1
+                f.write("dev tok: " + ''.join(u))
+                f.write("    ")
+                f.write("gold tok: " + ''.join(c))
+                f.write("\n")
             len_c += 1
             total += 1
 
         if num_correct != 0 and len_c  == len(user_tok):
-            print "dev sentence:", user_tok
-            print "gold sentence", correct_tok
+            f.write("dev sentence: " + ' '.join(user_tok))
+            f.write("\n")
+            f.write("gold sentence: " + ' '.join(correct_tok))
+            f.write("\n\n")
 
-
+    f.close()
+    
     score = float(num_correct) / total * 100
 
     print "Percent correct tags:", score

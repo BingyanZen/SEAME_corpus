@@ -2,22 +2,37 @@ import sys
 
 def main():
     if len(sys.argv) < 4:
-	print "Usage: python tagger_output.py <d1 file> <d2 file> <extract file> <output file>"
+	print "Usage: python tagger_output.py <number of source files: 1/2> <source file1><source file2> <gold file> <output file>"
 	exit(1)
 
-    infile = open(sys.argv[1], "r")
-    dev_sentences = infile.readlines()
-    infile.close()
+    counter = int(sys.argv[1])
 
-    infile = open(sys.argv[2], "r")
-    dev_sentences += infile.readlines()
-    infile.close()
+    if counter == 2:
+        infile = open(sys.argv[2], "r")
+        dev_sentences = infile.readlines()
+        infile.close()
 
-    infile = open(sys.argv[3], "r")
-    gold_sentences = infile.readlines()
-    infile.close()
+        infile = open(sys.argv[3], "r")
+        dev_sentences += infile.readlines()
+        infile.close()
 
-    outfile = open(sys.argv[4], "w")
+        infile = open(sys.argv[4], "r")
+        gold_sentences = infile.readlines()
+        infile.close()
+
+        outfile = open(sys.argv[5], "w")
+    
+    if counter == 1:
+        infile = open(sys.argv[2], "r")
+        dev_sentences = infile.readlines()
+        infile.close()
+
+        infile = open(sys.argv[3], "r")
+        gold_sentences = infile.readlines()
+        infile.close()
+
+        outfile = open(sys.argv[4], "w")
+
 
     num_correct = 0
     total = 0
