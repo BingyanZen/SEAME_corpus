@@ -6679,13 +6679,8 @@
 24NC45MBP_0101	973511	975951	but@CONJ@eng 住房@NOUN@cmn 间@PRT@cmn you@PRON@eng can@VERB@eng always@ADV@eng get@VERB@eng triple@ADJ@eng room@NOUN@eng 吗@PRT@cmn
 24NC45MBP_0101	1076211	1080001	如果@SCONJ@cmn 出去@VERB@cmn 逛@VERB@cmn 街@NOUN@cmn 的话@PRT@cmn then@ADV@eng we@PRON@eng would@VERB@eng automatically@ADV@eng spilt@VERB@eng up@PRT@eng
 24NC45MBP_0101	1097811	1101421	in@ADP@eng a@DET@eng sense@NOUN@eng we@PRON@eng do@VERB@eng n't@ADV@eng 我们@PRON@cmn 不@ADV@cmn 会@VERB@cmn 被@X@cmn like@INTJ@eng other@ADJ@eng people@NOUN@eng
-<<<<<<< HEAD
-24NC45MBP_0101	1202701	1206711	如果@SCONJ@cmn 如果@SCONJ@cmn 他@PRON@cmn 没有@ADV@cmn 去@VERB@cmn 的@PRT@cmn 话@NOUN@cmn my@PRON@eng my@PRON@eng answer@NOUN@eng will@VERB@eng be@VERB@eng definitely@ADV@eng no@DET@eng lah@DSC@undef
-24NC45MBP_0101	1214131	1218081	but@CONJ@eng a@DET@eng holiday@NOUN@eng I@PRON@eng know@VERB@eng is@VERB@eng 哈哈哈@XXX@XXX and@CONJ@eng 去@VERB@cmn 那边@PRON@cmn 玩耍@VERB@cmn
-=======
 24NC45MBP_0101	1202701	1206711	如果@SCONJ@cmn 如果@SCONJ@cmn 他@PRON@cmn 没有@ADV@cmn 去@VERB@cmn 的话@PRT@cmn my@PRON@eng my@PRON@eng answer@NOUN@eng will@VERB@eng be@VERB@eng definitely@ADV@eng no@DET@eng lah@DSC@undef
 24NC45MBP_0101	1214131	1218081	but@CONJ@eng a@DET@eng holiday@NOUN@eng I@PRON@eng know@VERB@eng is@VERB@eng 哈哈哈@INTJ@cmn and@CONJ@eng 去@VERB@cmn 那边@PRON@cmn 玩耍@VERB@cmn
->>>>>>> origin/lingzi
 24NC45MBP_0101	1219771	1221331	it@PRON@eng 's@VERB@eng just@ADV@eng 不@ADV@cmn 一样@VERB@cmn ah@DSC@undef
 24NC45MBP_0101	1294911	1301831	yah@DSC@undef lah@DSC@undef assuming@VERB@eng that@ADP@eng 你@PRON@cmn 会@VERB@cmn er@DSC@undef 有@VERB@cmn 空@NOUN@cmn lah@DSC@undef and@CONJ@eng not@ADV@eng not@ADV@eng like@INTJ@eng have@VERB@eng anything@NOUN@eng on@ADP@eng
 24NC45MBP_0101	1332601	1334941	I@PRON@eng do@VERB@eng n't@ADV@eng know@VERB@eng 会@VERB@cmn 不@ADV@cmn 会@VERB@cmn 很@ADV@cmn 很@ADV@cmn 难@VERB@cmn
@@ -6705,15 +6700,9 @@
 24NC45MBP_0101	2401940	2404800	we@PRON@eng 我们@PRON@cmn 有@VERB@cmn 共@ADV@cmn 命@NOUN@cmn 啊@PRT@cmn we@PRON@eng have@VERB@eng different@ADJ@eng
 24NC45MBP_0101	2420830	2423720	although@ADP@eng 不@ADV@cmn 是@VERB@cmn 每@DET@cmn 年轻人@NOUN@cmn 的@PRT@cmn
 24NC45MBP_0101	2437840	2444690	what@PRON@eng about@ADP@eng you@PRON@eng how@ADV@eng do@VERB@eng you@PRON@eng usually@ADV@eng spend@VERB@eng your@PRON@eng your@PRON@eng new@ADJ@eng years@NOUN@eng or@CONJ@eng your@PRON@eng ah@DSC@undef 圣诞节@NOUN@cmn
-<<<<<<< HEAD
-24NC45MBP_0101	2466710	2472410	你们@PRON@cmn 可以@VERB@cmn 去@VERB@cmn mio@VERB@eng T.V.@PROPN@eng then@ADV@eng 会@VERB@cmn 有@VERB@cmn 综艺@NOUN@cmn 大哥大@NOUN@cmn and@CONJ@eng er@XXX@XXX what@PRON@eng else@ADV@eng
-24NC45MBP_0101	2507790	2512750	yah@INTJ@undef you@PRON@eng all@DET@eng should@VERB@eng get@VERB@eng mio@NOUN@eng then@ADV@eng you@PRON@eng all@DET@eng have@VERB@eng all@DET@eng the@DET@eng 台湾@PROPN@cmn 综艺@NOUN@cmn 节目@NOUN@cmn I@PRON@eng think@VERB@eng it@PRON@eng will@VERB@eng be@VERB@eng very@ADV@eng funny@ADJ@eng
-24NC45MBP_0101	2596110	2600670	so@ADV@eng 是@VERB@cmn 全部@ADV@cmn mass@NOUN@eng produce@NOUN@eng 的@PRT@cmn 那些@DET@cmn 哈哈@XXX@XXX food@NOUN@eng
-=======
 24NC45MBP_0101	2466710	2472410	你们@PRON@cmn 可以@VERB@cmn 去@VERB@cmn mio@VERB@eng T.V.@PROPN@eng then@ADV@eng 会@VERB@cmn 有@VERB@cmn 综艺@NOUN@cmn 大哥大@NOUN@cmn and@CONJ@eng er@DSC@undef what@PRON@eng else@ADV@eng
 24NC45MBP_0101	2507790	2512750	yah@DSC@undef you@PRON@eng all@DET@eng should@VERB@eng get@VERB@eng mio@NOUN@eng then@ADV@eng you@PRON@eng all@DET@eng have@VERB@eng all@DET@eng the@DET@eng 台湾@PROPN@cmn 综艺@NOUN@cmn 节目@NOUN@cmn I@PRON@eng think@VERB@eng it@PRON@eng will@VERB@eng be@VERB@eng very@ADV@eng funny@ADJ@eng
 24NC45MBP_0101	2596110	2600670	so@ADV@eng 是@VERB@cmn 全部@ADV@cmn mass@NOUN@eng produce@NOUN@eng 的@PRT@cmn 那些@DET@cmn 哈哈@INTJ@cmn food@NOUN@eng
->>>>>>> origin/lingzi
 24NC45MBP_0101	2624630	2627150	就@ADV@cmn 是@VERB@cmn 你@PRON@cmn 在@ADP@cmn 讲@VERB@cmn 的@PRT@cmn 都@ADV@cmn 是@VERB@cmn your@PRON@eng father@NOUN@eng side@NOUN@eng
 24NC45MBP_0101	2642380	2644590	oh@INTJ@eng so@ADV@eng 是@VERB@cmn extended@VERB@eng lah@DSC@undef
 24NC45MBP_0101	2667470	2672530	so@ADP@eng the@DET@eng two@NUM@eng cousins@NOUN@eng that@ADP@eng you@PRON@eng are@VERB@eng close@ADJ@eng with@ADP@eng 他们@PRON@cmn 和@ADP@cmn 你@PRON@cmn 年龄@NOUN@cmn 相差@VERB@cmn 多少@NUM@cmn
