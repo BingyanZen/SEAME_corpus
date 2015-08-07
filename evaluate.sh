@@ -7,4 +7,4 @@ python tagger_output.py 2 universal_tagged_seame_d1.txt universal_tagged_seame_d
 
 
 # python pos.py <tagger_output file> <gold file>
-python pos.py output.txt extract_golden.txt ../SEAME_corpus/poseval_result.txt
+python pos.py output.txt extract_golden.txt ../SEAME_corpus/poseval_result2.txt
