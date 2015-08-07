@@ -1931,7 +1931,7 @@
 08NC15MBP_0101	239770	242560	but@CONJ@eng 我@PRON@cmn 觉得@VERB@cmn othello@NOUN@eng 很@ADV@cmn 像@ADP@cmn 比较@ADV@cmn 多@NUM@cmn 人@NOUN@cmn 这样@PRON@cmn 的@PRT@cmn 感觉@NOUN@cmn
 08NC15MBP_0101	245510	248770	but@CONJ@eng then@ADV@eng 我@PRON@cmn 不不@ADV@cmn 太@ADV@cmn 会@VERB@cmn 玩@VERB@cmn 不@ADV@cmn 太@ADV@cmn 会@VERB@cmn strategize@VERB@eng
 08NC15MBP_0101	260710	264630	but@CONJ@eng 你@PRON@cmn 要@VERB@cmn 想@VERB@cmn 一下@ADV@cmn eh@DSC@undef 是@VERB@cmn 明年@NOUN@cmn 才@ADV@cmn training@NOUN@eng eh@DSC@undef 因为@ADP@cmn 明年@NOUN@cmn 才@ADV@cmn 比赛@VERB@cmn eh@DSC@undef
-08NC15MBP_0101	277150	279580	mm@NOUN@eng at@ADP@eng least@ADJ@eng 不@ADV@cmn 是@VERB@cmn 十二月@NOUN@cmn 三十@NUM@cmn 号@NUM@cmn 三十一@NUM@cmn 号@NUM@cmn 嘛@PRT@cmn
+08NC15MBP_0101	277150	279580 mm@XXX@XXX at@ADP@eng least@ADJ@eng 不@ADV@cmn 是@VERB@cmn 十二月@NOUN@cmn 三十@NUM@cmn 号@NUM@cmn 三十一@NUM@cmn 号@NUM@cmn 嘛@PRT@cmn
 08NC15MBP_0101	327570	330390	but@CONJ@eng 我@PRON@cmn 那边@PRON@cmn 很多@NUM@cmn 东西@NOUN@cmn 要@VERB@cmn pack@NOUN@eng 一@NUM@cmn 下@NUM@cmn
 08NC15MBP_0101	363180	367400	after@ADP@eng that@DET@eng hor@DSC@undef 下下@ADJ@cmn 下下@NOUN@cmn 到@VERB@cmn 完@VERB@cmn 已经@ADV@cmn 六点@NOUN@cmn 了@PRT@cmn 我@PRON@cmn 也@ADV@cmn 不@ADV@cmn 用去@VERB@cmn 了@PRT@cmn
 08NC15MBP_0101	483970	486430	不@ADV@cmn 是@VERB@cmn 你@PRON@cmn 的@PRT@cmn frequency@NOUN@eng 是@VERB@cmn 你@PRON@cmn 的@PRT@cmn 那个@DET@cmn amplitude@NOUN@eng
@@ -3541,7 +3541,7 @@
 12NC24FBQ_0101	422030	424570	I@PRON@eng know@VERB@eng quite@ADV@eng a@DET@eng lot@NOUN@eng of@ADP@eng christian@ADJ@eng stuff@NOUN@eng lah@DSC@undef like@INTJ@eng all@DET@eng the@DET@eng
 12NC24FBQ_0101	425580	428110	all@DET@eng the@DET@eng stories@NOUN@eng 很@ADV@cmn 好听@VERB@cmn eh@DSC@undef
 12NC24FBQ_0101	428320	430200	okay@INTJ@eng like@INTJ@eng those@DET@eng things@NOUN@eng in@ADP@eng bibles@PROPN@eng ah@DSC@undef
-12NC24FBQ_0101	433860	435960	mm@NOUN@eng we@PRON@eng have@VERB@eng devotion@NOUN@eng every@DET@eng assembly@NOUN@eng lo@DSC@undef
+12NC24FBQ_0101	433860	435960 mm@XXX@XXX we@PRON@eng have@VERB@eng devotion@NOUN@eng every@DET@eng assembly@NOUN@eng lo@DSC@undef
 12NC24FBQ_0101	440870	446100	quite@ADV@eng interesting@ADJ@eng ah@DSC@undef but@CONJ@eng some@DET@eng pastor's@NOUN@eng very@ADV@eng boring@ADJ@eng ah@DSC@undef but@CONJ@eng there@DET@eng 's@VERB@eng there@DET@eng 's@VERB@eng this@DET@eng one@NUM@eng pastor@NOUN@eng that@ADP@eng I@PRON@eng really@ADV@eng really@ADV@eng like@VERB@eng 因为@ADP@cmn
 12NC24FBQ_0101	446680	455570	like@INTJ@eng every@DET@eng everything@NOUN@eng that@ADP@eng he@PRON@eng said@VERB@eng right@ADV@eng he@PRON@eng would@VERB@eng come@VERB@eng up@PRT@eng with@ADP@eng examples@NOUN@eng or@CONJ@eng anything@NOUN@eng like@ADP@eng hands@NOUN@eng on@ADP@eng experiment@NOUN@eng to@PRT@eng show@VERB@eng us@PRON@eng then@ADV@eng it@PRON@eng 's@VERB@eng like@INTJ@eng 很@ADV@cmn interesting@ADJ@eng 的@PRT@cmn
 12NC24FBQ_0101	461950	463300	yah@INTJ@undef very@ADV@eng boring@ADJ@eng
@@ -3695,7 +3695,7 @@
 12NC24FBQ_0101	1623764	1626204	around@ADP@eng twenty@NUM@eng minutes@NOUN@eng at@ADP@eng most@ADJ@eng lo@DSC@undef
 12NC24FBQ_0101	1631614	1633024	goes@VERB@eng to@PRT@eng interchange@NOUN@eng also@ADV@eng is@VERB@eng it@PRON@eng
 12NC24FBQ_0101	1633834	1636294	but@CONJ@eng eighty@NUM@eng five@NUM@eng does@VERB@eng n't@ADV@eng go@VERB@eng to@PRT@eng interchange@ADV@eng have@VERB@eng to@PRT@eng walk@VERB@eng
-12NC24FBQ_0101	1638324	1642644	mm@NOUN@eng eighty@NUM@eng five@NUM@eng after@ADP@eng expressway@VERB@eng the@DET@eng second@ADJ@eng stop@NOUN@eng 就@ADV@cmn 是@VERB@cmn 那个@PRON@cmn stop@VERB@eng 了@.@cmn
+12NC24FBQ_0101	1638324	1642644 mm@XXX@XXX eighty@NUM@eng five@NUM@eng after@ADP@eng expressway@VERB@eng the@DET@eng second@ADJ@eng stop@NOUN@eng 就@ADV@cmn 是@VERB@cmn 那个@PRON@cmn stop@VERB@eng 了@.@cmn
 12NC24FBQ_0101	1643074	1645014	seng-kang@ADJ@eng compass@NOUN@eng point@NOUN@eng the@DET@eng stop@NOUN@eng 了@.@cmn
 12NC24FBQ_0101	1656984	1661164	but@CONJ@eng eighty@NUM@eng five@NUM@eng 是@VERB@cmn stop@VERB@eng at@ADP@eng punggol@NOUN@eng right@ADV@eng terminate@VERB@eng at@ADP@eng punggol@NOUN@eng
 12NC24FBQ_0101	1675374	1676344	also@ADV@eng quite@ADV@eng new@ADJ@eng
@@ -4633,7 +4633,7 @@
 15NC29FBP_0101	2616019	2617259	我@PRON@cmn 要@VERB@cmn 看@VERB@cmn live@VERB@eng 的@PRT@cmn
 15NC29FBP_0101	2622659	2624649	八点@NOUN@cmn right@ADV@eng ten@NUM@eng
 15NC29FBP_0101	2661969	2665509	then@ADV@eng yong-wei@ADJ@eng 也@ADV@cmn 讲@VERB@cmn 不@ADV@cmn 要@VERB@cmn 他@PRON@cmn 也@ADV@cmn 不@ADV@cmn 要@VERB@cmn 去@VERB@cmn 因为@ADP@cmn 他@PRON@cmn 有@VERB@cmn training@NOUN@eng
-15NC29FBP_0101	2667079	2670629	shao-peng@NOUN@eng 也@ADV@cmn 是@VERB@cmn 有@VERB@cmn training@NOUN@eng mm@NOUN@eng 他们@PRON@cmn 要@VERB@cmn discuss@VERB@eng 一些@NUM@cmn
+15NC29FBP_0101	2667079	2670629	shao-peng@NOUN@eng 也@ADV@cmn 是@VERB@cmn 有@VERB@cmn training@NOUN@eng mm@XXX@XXX 他们@PRON@cmn 要@VERB@cmn discuss@VERB@eng 一些@NUM@cmn
 15NC29FBP_0101	2680049	2683949	哎呀@INTJ@cmn 他@PRON@cmn 一定@ADV@cmn 会@VERB@cmn 去@VERB@cmn 啊@PRT@cmn they@PRON@eng say@VERB@eng he@PRON@eng 's@VERB@eng like@INTJ@eng the@DET@eng next@ADJ@eng president@NOUN@eng ah@DSC@undef
 15NC29FBP_0101	2873109	2875109	playing@VERB@eng online@ADJ@eng game@NOUN@eng is@VERB@eng 浪费@NOUN@cmn 时间@NOUN@cmn
 15NC29FBP_0101	2897419	2900649	my@PRON@eng sister@NOUN@eng 不@ADV@cmn 会@VERB@cmn lah@DSC@undef 她@PRON@cmn 不@ADV@cmn 会@VERB@cmn got@VERB@eng addicted@VERB@eng 的@PRT@cmn
@@ -5556,7 +5556,7 @@
 18NC35FBP_0101	3564075	3566625	他们@PRON@cmn 也@ADV@cmn 得@VERB@cmn 带@VERB@cmn like@INTJ@eng extra@ADJ@eng caroling@NOUN@eng file@NOUN@eng
 18NC35FBP_0101	3579452	3583502	so@ADV@eng 你@PRON@cmn like@INTJ@eng 算@VERB@cmn 好@VERB@cmn then@ADV@eng 分@VERB@cmn 咯@NOUN@cmn make@VERB@eng sure@ADJ@eng that@ADP@eng each@DET@eng group@NOUN@eng got@VERB@eng some@DET@eng extra@ADJ@eng
 18NC36MBQ_0101	115617	117907	can@VERB@eng not@ADV@eng lah@DSC@undef 要@VERB@cmn 花@VERB@cmn 很多@NUM@cmn 钱@NOUN@cmn leh@DSC@undef like@ADP@eng that@DET@eng
-18NC36MBQ_0101	146927	152697	mmm@NOUN@eng but@CONJ@eng some@DET@eng dates@NOUN@eng 我@PRON@cmn 觉得@VERB@cmn 不@ADV@cmn 够@VERB@cmn 人@NOUN@cmn leh@DSC@undef it@PRON@eng 's@VERB@eng like@ADP@eng the@DET@eng strength@NOUN@eng not@ADV@eng good@ADJ@eng enough@ADV@eng
+18NC36MBQ_0101	146927	152697 mmm@XXX@XXX but@CONJ@eng some@DET@eng dates@NOUN@eng 我@PRON@cmn 觉得@VERB@cmn 不@ADV@cmn 够@VERB@cmn 人@NOUN@cmn leh@DSC@undef it@PRON@eng 's@VERB@eng like@ADP@eng the@DET@eng strength@NOUN@eng not@ADV@eng good@ADJ@eng enough@ADV@eng
 18NC36MBQ_0101	157337	162467	then@ADV@eng like@INTJ@eng some@DET@eng of@ADP@eng the@DET@eng seniors@NOUN@eng 有@VERB@cmn 说@VERB@cmn 要@VERB@cmn 帮忙@VERB@cmn but@CONJ@eng then@ADV@eng like@INTJ@eng still@ADV@eng okay@ADJ@eng lor@DSC@undef
 18NC36MBQ_0101	247937	249947	but@CONJ@eng 方便@VERB@cmn what@PRON@eng first@ADV@eng first@ADJ@eng level@NOUN@eng
 18NC36MBQ_0101	300650	304030	maybe@ADV@eng we@PRON@eng go@VERB@eng there@DET@eng 看@VERB@cmn 咯@DSC@undef like@INTJ@eng maybe@ADV@eng
@@ -8855,7 +8855,7 @@
 28NC52FBQ_0101	311049	313779	ya@INTJ@eng I@PRON@eng also@ADV@eng want@VERB@eng to@PRT@eng get@VERB@eng it@PRON@eng but@CONJ@eng I@PRON@eng do@VERB@eng n't@ADV@eng think@VERB@eng I@PRON@eng 'd@VERB@eng ever@ADV@eng get@VERB@eng it@PRON@eng
 28NC52FBQ_0101	317429	322089 er@XXX@XXX I@PRON@eng do@VERB@eng n't@ADV@eng know@VERB@eng whether@ADP@eng the@DET@eng people@NOUN@eng would@VERB@eng still@ADV@eng be@VERB@eng at@ADP@eng the@DET@eng end@NOUN@eng point@NOUN@eng to@PRT@eng distribute@VERB@eng the@DET@eng shirts@NOUN@eng to@PRT@eng me@PRON@eng
 28NC52FBQ_0101	329639	338109	anyway@ADV@eng 我@PRON@cmn 觉得@VERB@cmn 昨天@NOUN@cmn 的@PRT@cmn experience@NOUN@eng right@NOUN@eng 很@ADV@cmn tiring@VERB@eng lor@DSC@undef then@ADV@eng 我@PRON@cmn 觉得@VERB@cmn run@VERB@eng 比较@ADV@cmn 不@ADV@cmn tiring@VERB@eng 真@ADJ@cmn 的@PRT@cmn 真的@ADV@cmn 我@PRON@cmn 跟@ADP@cmn 你@PRON@cmn 讲@VERB@cmn
-28NC52FBQ_0101	338179	344629	因为@ADP@cmn previous@ADJ@eng years@NOUN@eng 我@PRON@cmn 有@VERB@cmn run@VERB@eng 过@VERB@cmn ten@NUM@eng K.then@NOUN@eng after@ADP@eng that@DET@eng 我@PRON@cmn 就@ADV@cmn 觉得@VERB@cmn 说@VERB@cmn mm@NOUN@eng actually@ADV@eng hor@DSC@undef run@VERB@eng 比较@ADV@cmn
+28NC52FBQ_0101	338179	344629	因为@ADP@cmn previous@ADJ@eng years@NOUN@eng 我@PRON@cmn 有@VERB@cmn run@VERB@eng 过@VERB@cmn ten@NUM@eng K.then@NOUN@eng after@ADP@eng that@DET@eng 我@PRON@cmn 就@ADV@cmn 觉得@VERB@cmn 说@VERB@cmn mm@XXX@XXX actually@ADV@eng hor@DSC@undef run@VERB@eng 比较@ADV@cmn
 28NC52FBQ_0101	345179	349929	比较@ADV@cmn 好@ADJ@cmn 因为@ADP@cmn 就@ADV@cmn 是@VERB@cmn turn@VERB@eng up@PRT@eng 在@ADP@cmn 那个@DET@cmn 时间@NOUN@cmn 然后@ADV@cmn run@VERB@eng one@NUM@eng hour@NOUN@eng later@ADJ@eng teng@NOUN@eng reng@NOUN@eng 可以@VERB@cmn 回去@VERB@cmn 了@PRT@cmn
 28NC52FBQ_0101	352849	355989	当然@ADV@cmn 是@VERB@cmn ten@NUM@eng click@VERB@eng 啦@PRT@cmn 我@PRON@cmn run@VERB@eng forty@NUM@eng two@NUM@eng 我@PRON@cmn 就@ADV@cmn
 28NC52FBQ_0101	356565	357795	我@PRON@cmn run@VERB@eng stand@NOUN@eng chart@NOUN@eng
@@ -8865,7 +8865,7 @@
 28NC52FBQ_0101	410191	412801	orh@DSC@undef 为什么@ADV@cmn 我@PRON@cmn 觉得@VERB@cmn 我@PRON@cmn 很@ADV@cmn 喜欢@VERB@cmn 的@PRT@cmn leh@DSC@undef
 28NC52FBQ_0101	412871	414941	我@PRON@cmn 觉得@VERB@cmn it@PRON@eng 's@VERB@eng a@DET@eng it@PRON@eng 's@VERB@eng it@PRON@eng 's@VERB@eng
 28NC52FBQ_0101	415891	419861	我@PRON@cmn 我@PRON@cmn 喜欢@VERB@cmn 人家@NOUN@cmn to@PRT@eng cheer@VERB@eng me@PRON@eng on@ADP@eng 我@PRON@cmn 觉得@VERB@cmn it@PRON@eng would@VERB@eng help@VERB@eng to@PRT@eng
-28NC52FBQ_0101	420001	425371	mmm@NOUN@eng encourage@VERB@eng me@PRON@eng 啊@INTJ@cmn especially@ADV@eng when@ADV@eng 我@PRON@cmn 觉得@VERB@cmn 不@ADV@cmn 可以@VERB@cmn 的@PRT@cmn 时候@NOUN@cmn 我@PRON@cmn 觉得@VERB@cmn 很@ADV@cmn 重要@VERB@cmn leh@DSC@undef 这种@ADV@cmn 东西@NOUN@cmn
+28NC52FBQ_0101	420001	425371 mmm@XXX@XXX encourage@VERB@eng me@PRON@eng 啊@INTJ@cmn especially@ADV@eng when@ADV@eng 我@PRON@cmn 觉得@VERB@cmn 不@ADV@cmn 可以@VERB@cmn 的@PRT@cmn 时候@NOUN@cmn 我@PRON@cmn 觉得@VERB@cmn 很@ADV@cmn 重要@VERB@cmn leh@DSC@undef 这种@ADV@cmn 东西@NOUN@cmn
 28NC52FBQ_0101	425761	427941	真的@VERB@cmn then@ADV@eng yesterday@NOUN@eng 我@PRON@cmn 的@PRT@cmn friend@NOUN@eng hor@DSC@undef
 28NC52FBQ_0101	428001	430141	he@PRON@eng ran@VERB@eng for@ADP@eng forty@NUM@eng two@NUM@eng click@VERB@eng
 28NC52FBQ_0101	430141	432901	then@ADV@eng he@PRON@eng also@ADV@eng said@VERB@eng that@ADP@eng the@DET@eng cheerleaders@NOUN@eng were@VERB@eng the@DET@eng one@NUM@eng who@PRON@eng
@@ -8959,7 +8959,7 @@
 28NC52FBQ_0101	1013569	1019129	因为@ADP@cmn 我@PRON@cmn 怕@VERB@cmn 吗@PRT@cmn scally@ADV@eng after@ADP@eng one@NUM@eng hour@NOUN@eng eh@DSC@undef actually@ADV@eng 一个@NUM@cmn speaker@NOUN@eng 没有@VERB@cmn record@NOUN@eng 到@VERB@cmn whoa@DSC@undef let@VERB@eng 's@PRT@eng do@VERB@eng it@PRON@eng again@ADV@eng
 28NC52FBQ_0101	1022869	1023799	谁@PRON@cmn 跟@ADP@cmn 你@PRON@cmn 讲@VERB@cmn
 28NC52FBQ_0101	1036179	1039029	okay@INTJ@eng 不@ADV@cmn 要@VERB@cmn 讲@VERB@cmn 钱@NOUN@cmn 了@PRT@cmn 伤感情@NOUN@cmn
-28NC52FBQ_0101	1050256	1053326	mm@NOUN@eng 他@PRON@cmn 说@VERB@cmn 他@PRON@cmn 说@VERB@cmn 好@VERB@cmn 的@PRT@cmn 话@NOUN@cmn 他@PRON@cmn 会@VERB@cmn 继续@VERB@cmn 啊@PRT@cmn
+28NC52FBQ_0101	1050256	1053326 mm@XXX@XXX 他@PRON@cmn 说@VERB@cmn 他@PRON@cmn 说@VERB@cmn 好@VERB@cmn 的@PRT@cmn 话@NOUN@cmn 他@PRON@cmn 会@VERB@cmn 继续@VERB@cmn 啊@PRT@cmn
 28NC52FBQ_0101	1054226	1057326	我@PRON@cmn 觉得@VERB@cmn 我@PRON@cmn 也@ADV@cmn 我@PRON@cmn 也@ADV@cmn 是@VERB@cmn 很@ADV@cmn nervous@ADJ@eng 啊@INTJ@cmn 刚才@ADV@cmn
 28NC52FBQ_0101	1058646	1061946	应该@VERB@cmn 一个@NUM@cmn long@ADJ@eng term@NOUN@eng relationship@NOUN@eng 是@VERB@cmn 不@ADV@cmn 是@VERB@cmn 我@PRON@cmn spot@NOUN@eng on@ADP@eng
 28NC52FBQ_0101	1068346	1072246	orh@DSC@undef eh@DSC@undef anyway@ADV@eng 我@PRON@cmn 发觉@VERB@cmn 我们@PRON@cmn 一直@ADV@cmn 讲@VERB@cmn 华语@NOUN@cmn 我们@PRON@cmn let@VERB@eng 's@PRT@eng go@VERB@eng back@ADV@eng to@PRT@eng english@VERB@eng again@ADV@eng
@@ -10419,7 +10419,7 @@
 31NC50XFB_0101	874088	878028	你@PRON@cmn 是@VERB@cmn 不@ADV@cmn 是@VERB@cmn 很@ADV@cmn sick@ADJ@eng 你@PRON@cmn 没有@ADV@cmn 去@VERB@cmn 看医生@VERB@cmn meh@DSC@undef
 31NC50XFB_0101	889238	893278	but@CONJ@eng I@PRON@eng thought@VERB@eng you@PRON@eng need@VERB@eng your@PRON@eng voice@NOUN@eng on@ADP@eng sunday@PROPN@eng like@ADP@eng this@DET@eng you@PRON@eng can@VERB@eng go@VERB@eng sing@VERB@eng meh@DSC@undef
 31NC50XFB_0101	911478	913128	oh@INTJ@eng self@NOUN@eng group@NOUN@eng leader@NOUN@eng 啊@INTJ@cmn
-31NC50XFB_0101	937338	940308	mm@NOUN@eng I@PRON@eng think@VERB@eng you@PRON@eng should@VERB@eng go@VERB@eng you@PRON@eng see@VERB@eng a@DET@eng school@NOUN@eng doctor@NOUN@eng is@VERB@eng it@PRON@eng
+31NC50XFB_0101	937338	940308 mm@XXX@XXX I@PRON@eng think@VERB@eng you@PRON@eng should@VERB@eng go@VERB@eng you@PRON@eng see@VERB@eng a@DET@eng school@NOUN@eng doctor@NOUN@eng is@VERB@eng it@PRON@eng
 31NC50XFB_0101	946258	948718	go@VERB@eng family@NOUN@eng doctor@NOUN@eng 啊@INTJ@cmn
 31NC50XFB_0101	951744	954954 er@XXX@XXX new@ADJ@eng year@NOUN@eng is@VERB@eng coming@VERB@eng you@PRON@eng 're@VERB@eng missing@VERB@eng out@PRT@eng all@DET@eng the@DET@eng good@ADJ@eng food@NOUN@eng
 31NC50XFB_0101	958124	960904	whoa@DSC@undef then@ADV@eng you@PRON@eng come@VERB@eng back@ADV@eng you@PRON@eng get@VERB@eng scolded@VERB@eng by@ADP@eng 奶粉@NOUN@cmn already@ADV@eng
@@ -10441,7 +10441,7 @@
 31NC50XFB_0101	1091013	1094383	you@PRON@eng you@PRON@eng like@INTJ@eng do@VERB@eng n't@ADV@eng what@PRON@eng to@PRT@eng say@VERB@eng I@PRON@eng can@VERB@eng 't@VERB@eng scold@ADJ@eng vulgarity@NOUN@eng back@ADV@eng what@PRON@eng
 31NC50XFB_0101	1094613	1097543	then@ADV@eng this@DET@eng like@INTJ@eng oh@INTJ@eng another@DET@eng guy@NOUN@eng looking@VERB@eng at@ADP@eng us@PRON@eng stunned@VERB@eng eh@DSC@undef it@PRON@eng 's@VERB@eng like@INTJ@eng whoa@DSC@undef
 31NC50XFB_0101	1097543	1100623	he@PRON@eng his@PRON@eng vulgarities@NOUN@eng knowledge@NOUN@eng is@VERB@eng more@ADJ@eng than@ADP@eng mine@NOUN@eng
-31NC50XFB_0101	1103990	1106480	mm@NOUN@eng actually@ADV@eng they@PRON@eng were@VERB@eng quite@ADV@eng rebellious@ADJ@eng also@ADV@eng
+31NC50XFB_0101	1103990	1106480 mm@XXX@XXX actually@ADV@eng they@PRON@eng were@VERB@eng quite@ADV@eng rebellious@ADJ@eng also@ADV@eng
 31NC50XFB_0101	1110458	1114098	我@PRON@cmn 没有@ADV@cmn handphone@NOUN@eng 吗@PRT@cmn I@PRON@eng do@VERB@eng n't@ADV@eng I@PRON@eng do@VERB@eng n't@ADV@eng remember@VERB@eng I@PRON@eng carrying@VERB@eng a@DET@eng handphone@NOUN@eng in@ADP@eng primary@ADJ@eng school@NOUN@eng orh@DSC@undef
 31NC50XFB_0101	1117088	1119658	orh@DSC@undef 我@PRON@cmn 也@ADV@cmn 是@VERB@cmn around@ADP@eng that@DET@eng time@NOUN@eng 啊@INTJ@cmn
 31NC50XFB_0101	1133256	1135856	ya@INTJ@eng actually@ADV@eng I@PRON@eng was@VERB@eng surprised@VERB@eng also@ADV@eng leh@DSC@undef
@@ -12707,7 +12707,7 @@
 41NC59MAX_0101	1082527	1089077	所以@ADV@cmn 现在@NOUN@cmn 我们@PRON@cmn 还@ADV@cmn 没有@ADV@cmn 确定@VERB@cmn 所有@DET@cmn 的@PRT@cmn not@ADV@eng yet@ADV@eng confirm@VERB@eng everything@NOUN@eng lah@DSC@undef so@ADP@eng we@PRON@eng are@VERB@eng still@ADV@eng planning@VERB@eng what@PRON@eng to@PRT@eng do@VERB@eng
 41NC59MAX_0101	1101357	1114637	eh@DSC@undef this@DET@eng is@VERB@eng one@NUM@eng of@ADP@eng the@DET@eng possibility@NOUN@eng ah@DSC@undef 也@ADV@cmn 有@VERB@cmn 可能@NOUN@cmn 说@VERB@cmn 我们@PRON@cmn 就@ADV@cmn before@ADP@eng convo@NOUN@eng then@ADV@eng 我们@PRON@cmn 就@ADV@cmn 会@VERB@cmn end@NOUN@eng of@ADP@eng our@PRON@eng program@NOUN@eng ah@DSC@undef 就@ADV@cmn 是@VERB@cmn 可能@ADV@cmn 不@ADV@cmn 会@VERB@cmn 就@ADV@cmn 不@ADV@cmn 会@VERB@cmn 到@VERB@cmn 回去@VERB@cmn
 41NC59MAX_0101	1119797	1130477	ah@DSC@undef 对@VERB@cmn actually@ADV@eng the@DET@eng F.Y.P.@PROPN@eng presentation@NOUN@eng the@DET@eng F.Y.P.@PROPN@eng presentation@NOUN@eng is@VERB@eng in@ADP@eng the@DET@eng second@ADJ@eng week@NOUN@eng of@ADP@eng may@VERB@eng so@ADV@eng we@PRON@eng will@VERB@eng leave@VERB@eng singapore@NOUN@eng 再@ADV@cmn 第二@NUM@cmn 第三@NUM@cmn 个@NUM@cmn 礼拜@NOUN@cmn
-41NC59MAX_0101	1146587	1159637	我们@PRON@cmn 其实@ADV@cmn 已经@ADV@cmn 其实@ADV@cmn 我们@PRON@cmn 已经@ADV@cmn we@PRON@eng already@ADV@eng get@VERB@eng the@DET@eng job@NOUN@eng lah@DSC@undef because@ADP@eng last@ADJ@eng week@NOUN@eng we@PRON@eng went@VERB@eng to@PRT@eng the@DET@eng interview@NOUN@eng in@ADP@eng suntec@PROPN@eng city@NOUN@eng then@ADV@eng er@XXX@XXX the@DET@eng the@DET@eng com@NOUN@eng mm@NOUN@eng
+41NC59MAX_0101	1146587	1159637	我们@PRON@cmn 其实@ADV@cmn 已经@ADV@cmn 其实@ADV@cmn 我们@PRON@cmn 已经@ADV@cmn we@PRON@eng already@ADV@eng get@VERB@eng the@DET@eng job@NOUN@eng lah@DSC@undef because@ADP@eng last@ADJ@eng week@NOUN@eng we@PRON@eng went@VERB@eng to@PRT@eng the@DET@eng interview@NOUN@eng in@ADP@eng suntec@PROPN@eng city@NOUN@eng then@ADV@eng er@XXX@XXX the@DET@eng the@DET@eng com@NOUN@eng mm@XXX@XXX
 41NC59MAX_0101	1166487	1179097 er@XXX@XXX I@PRON@eng think@VERB@eng I@PRON@eng work@NOUN@eng in@ADP@eng a@DET@eng souvenir@NOUN@eng shop@NOUN@eng 我@PRON@cmn 会@VERB@cmn 帮忙@VERB@cmn sell@VERB@eng the@DET@eng candy@NOUN@eng and@CONJ@eng something@NOUN@eng like@ADP@eng souvenir@NOUN@eng actually@ADV@eng I@PRON@eng not@ADV@eng so@ADV@eng sure@ADJ@eng lah@DSC@undef but@CONJ@eng I@PRON@eng know@VERB@eng I@PRON@eng 'll@VERB@eng be@VERB@eng a@DET@eng cashier@NOUN@eng there@ADV@eng
 41NC59MAX_0101	1184377	1189357	oh@INTJ@eng li-ying@ADJ@eng 他们@PRON@cmn 也@ADV@cmn 在@ADV@cmn amusement@NOUN@eng park@NOUN@eng 做@VERB@cmn 不@ADV@cmn 过@VERB@cmn 他们@PRON@cmn 是@VERB@cmn 做@VERB@cmn waitress@NOUN@eng
 41NC59MAX_0101	1203107	1209327 er@XXX@XXX 所以@ADV@cmn 这样@ADV@cmn 你@PRON@cmn after@ADP@eng graduate@NOUN@eng 就@ADV@cmn 是@VERB@cmn 你@PRON@cmn 开始@VERB@cmn 在@ADP@cmn 找工作@VERB@cmn 了@PRT@cmn 吗@PRT@cmn
@@ -12921,7 +12921,7 @@
 41NC59MAX_0101	3241911	3244031	ya@INTJ@eng 我@PRON@cmn 觉得@VERB@cmn 对@ADP@cmn 有@VERB@cmn 不@ADV@cmn 一样@VERB@cmn
 41NC59MAX_0101	3245531	3248401	我们@PRON@cmn 还是@ADV@cmn 比较@ADV@cmn prefer@VERB@eng malaysia@NOUN@eng food@NOUN@eng 啦@PRT@cmn
 41NC59MAX_0101	3251631	3255231	差别@NOUN@cmn 不@ADV@cmn 会@VERB@cmn 很@ADV@cmn 大@ADJ@cmn 不过@ADV@cmn 就@ADV@cmn 是@VERB@cmn 有@VERB@cmn 一点@NUM@cmn 不@ADV@cmn 一@NUM@cmn er@XXX@XXX 一样@VERB@cmn
-41NC59MAX_0101	3255671	3257591	mm@NOUN@eng 他@PRON@cmn 的@PRT@cmn taste@NOUN@eng 有@VERB@cmn 不@ADV@cmn 一样@VERB@cmn
+41NC59MAX_0101	3255671	3257591 mm@XXX@XXX 他@PRON@cmn 的@PRT@cmn taste@NOUN@eng 有@VERB@cmn 不@ADV@cmn 一样@VERB@cmn
 41NC59MAX_0101	3262924	3264624	啊@INTJ@cmn 对@ADP@cmn 因为@ADP@cmn 我@PRON@cmn 的@PRT@cmn grad@NOUN@eng trip@NOUN@eng
 41NC59MAX_0101	3264964	3269294	也@ADV@cmn 不@ADV@cmn 能@VERB@cmn 再@ADV@cmn 去@VERB@cmn 哪里@PRON@cmn 了@PRT@cmn 因为@ADP@cmn 这个@DET@cmn U.S.A.@NOUN@eng 已经@ADV@cmn spend@VERB@eng a@DET@eng lot@NOUN@eng of@ADP@eng money@NOUN@eng
 41NC59MAX_0101	3271430	3273694 er@XXX@XXX 我@PRON@cmn 已经@ADV@cmn 会@VERB@cmn 在@VERB@cmn 美国@PROPN@cmn travel@NOUN@eng 了@PRT@cmn 吗@PRT@cmn
@@ -13092,7 +13092,7 @@
 42NC60FBQ_0101	3410140	3412610	定@VERB@cmn 房间@NOUN@cmn 可以@VERB@cmn online@NOUN@eng search@NOUN@eng
 42NC60FBQ_0101	3413070	3414980	然后@ADV@cmn 他@PRON@cmn 好像@ADV@cmn 有@VERB@cmn 一个@NUM@cmn website@NOUN@eng
 42NC60FBQ_0101	3450980	3453460	看@VERB@cmn 你@PRON@cmn 要@VERB@cmn 的@PRT@cmn holiday@NOUN@eng 是@VERB@cmn 怎样@VERB@cmn 的@PRT@cmn lor@DSC@undef
-42NC60FBQ_0101	3575850	3581170	mm@NOUN@eng 然后@ADV@cmn 如果@SCONJ@cmn 你@PRON@cmn 在@ADP@cmn roof@NOUN@eng top@NOUN@eng 那个@DET@cmn 站@NOUN@cmn 那边@PRON@cmn 的@PRT@cmn 话@NOUN@cmn 你@PRON@cmn 也@ADV@cmn 可以@VERB@cmn 看到@VERB@cmn 那个@DET@cmn beach@NOUN@eng
+42NC60FBQ_0101	3575850	3581170 mm@XXX@XXX 然后@ADV@cmn 如果@SCONJ@cmn 你@PRON@cmn 在@ADP@cmn roof@NOUN@eng top@NOUN@eng 那个@DET@cmn 站@NOUN@cmn 那边@PRON@cmn 的@PRT@cmn 话@NOUN@cmn 你@PRON@cmn 也@ADV@cmn 可以@VERB@cmn 看到@VERB@cmn 那个@DET@cmn beach@NOUN@eng
 43NC61FBQ_0101	77741	79751	你@PRON@cmn 以前@NOUN@cmn 是@VERB@cmn study@NOUN@eng in@ADP@eng which@DET@eng school@NOUN@eng
 43NC61FBQ_0101	83931	85771	以前@NOUN@cmn 你@PRON@cmn 参加@VERB@cmn what@DET@eng C.C.A.@NOUN@eng
 43NC61FBQ_0101	91551	94021	okay@ADJ@eng 现在@NOUN@cmn 你@PRON@cmn 参加@VERB@cmn what@DET@eng committee@NOUN@eng
